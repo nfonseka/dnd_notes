@@ -1,19 +1,11 @@
 # Obsidian / Quartz / GitHub Pages Template
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment.
+Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
 
-Fork this, enable deployment by going to (1) the repo's settings (2) Select "Pages" (3) Under "Build and Deployment" select GitHub Actions
+Template for hosting your Obsidian notebook on GitHub pages with CI deployment. See tutorial for the layperson here: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
 
-<img src="https://github.com/user-attachments/assets/d8f74b3e-c802-487c-a6c7-f3cdfad22cb7" width="450" />
+It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, see [source/README.md](./source/README.md). 
 
-Edit the pages in [source/content](./source/content) with Obsidian or any text editor. 
+There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
 
-It is deployed at: 
-
-https://defenderofbasic.github.io/obsidian-quartz-template
-
-When you fork this, it will be deployed at:
-
-```
-https://<USERNAME>.github.io/<REPO_NAME>
-```
+I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
