@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Home Page
 ---
-
-Hi
+```dataview
+```
