@@ -15,7 +15,7 @@ title: D&D Master Note
 ![[Session 10]]
 A
 ![[Merge Conflicts]]
-![[The Duck One-shot]]
+![[The Duck One-Shot]]
 ## Characters
 ![[Bernadette]]
 ![[Symeera]]

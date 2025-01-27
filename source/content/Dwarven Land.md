@@ -2,7 +2,7 @@
 tags:
   - City
   - Location
-Known Enemies:
+Enemies:
   - "[[Yartar#Corporations]]"
 allies:
   - "[[Gnomenguard]]"

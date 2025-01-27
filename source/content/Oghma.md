@@ -1,7 +1,7 @@
 ---
 tags:
   - God
-God of:
+God_of:
   - Inspiration
   - Invention
   - Knowledge

@@ -9,6 +9,7 @@ allies:
 Organisations:
   - "[[Harpers]]"
 Class: Divination Wizard
+Enemies:
 ---
 
 ![[Pasted image 20240608125110.png|100]]

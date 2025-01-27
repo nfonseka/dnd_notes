@@ -1,9 +1,9 @@
 ---
-Known Enemies:
+Enemies:
   - Enemies of Evil
   - God of Justice
   - Gods of Good
-God of:
+God_of:
   - Murder
   - Ritualistic Killing
   - Assasins

@@ -5,7 +5,7 @@ tags:
 aliases:
   - Craggy
   - Crag
-Known Enemies:
+Enemies:
   - "[[Gnomenguard]]"
 ---
 - Dwarven Woman

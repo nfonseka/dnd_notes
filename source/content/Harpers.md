@@ -2,7 +2,7 @@
 tags:
   - Organisation
   - Secret
-Known Enemies:
+Enemies:
   - "[[Penniless Merchants]]"
 Members:
   - "[[Adabra Gwynn]]"

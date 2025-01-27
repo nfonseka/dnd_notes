@@ -2,6 +2,6 @@
 tags:
   - God
   - Dwarven
-God of:
+God_of:
   - Luck
 ---

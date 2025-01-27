@@ -11,4 +11,3 @@ tags:
 		 - Gouge their eyes
 		 - Puke
 		 - They oozed a purple slime
-- 

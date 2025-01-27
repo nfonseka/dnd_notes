@@ -2,7 +2,7 @@
 tags:
   - Location
   - City
-Known Enemies:
+Enemies:
   - "[[Yartar#Corporations]]"
 allies:
   - "[[Dwarven Land]]"

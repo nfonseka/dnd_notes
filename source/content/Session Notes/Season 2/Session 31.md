@@ -1,6 +1,8 @@
 ---
 tags:
   - Session
+Locations:
+  - "[[Umbrage Hill]]"
 ---
 
 ```ad-summary
