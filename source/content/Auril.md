@@ -1,0 +1,4 @@
+- Evil
+- Queen of Darkness, residing in the far north not far from neverwinter
+- Worshipped by the Fey
+- Bitter and frigid

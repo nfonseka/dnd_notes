@@ -1,0 +1,7 @@
+---
+tags:
+  - God
+---
+
+- Infernal
+- Demonic

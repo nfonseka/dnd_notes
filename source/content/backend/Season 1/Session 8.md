@@ -1,0 +1,13 @@
+#backend
+- Going through the sewers
+- [[Umbra of Raxes]]
+- [[Moon]] is waning gibbous moon
+- New Moon Soon
+- This is where the rogue guild used to operate
+- Secret TUNNEL!!
+- meets rat friend [[Boot Leg]] and [[Steve Stiamh]]
+- [[Rosette]] changes appearances with magic
+- [[Boris]] is [[Rosette]] right hand man
+- Sending stone can only do 25 wrds and 1 msgs
+- Martxn trips the magic alarm
+- Elite mercinaries jump and subdue us and wizard and [[Boris]]

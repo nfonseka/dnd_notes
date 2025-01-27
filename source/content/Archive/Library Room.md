@@ -1,0 +1,2 @@
+- All bunch of books
+	- Most used books are books on religion, gods and magic. Faerunian gods. Divine magic, Shelves ripped out, books on the ground. Not a sign of a fight but of a frantic search

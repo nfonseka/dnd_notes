@@ -1,0 +1,10 @@
+- Vision of a Duck
+- Large [[black duck]] with glowing silver white eyes
+- Silhouette of a beast
+- Bows to [[Glaedril]]?
+- Ships falling from the sky
+- Screams of hundrends of sailors
+- [[Black duck]] growing darker in a lake of duck
+- [[Black Duck]]
+- Anu Haya Elohim (We shall become gods)
+- "The truth"

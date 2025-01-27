@@ -1,0 +1,12 @@
+#Location 
+- Chandelier in the Middle
+- Everything is marble
+- room with cream marble colouring
+- walls are also marble cream colout
+- Sees door to [[Meeting Room]], [[Garden Room]]
+- Double doors to [[Prophecy Chamber]]
+- 2 Guards Guarding Door
+- Crest of Neverwinter
+- Church Library Symbol
+- Symbol of [[Tyr]]
+- Symbol of [[Lathendar]]

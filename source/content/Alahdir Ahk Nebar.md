@@ -1,0 +1,1 @@
+"So Says the Prophecy" in [[Quackinese]]

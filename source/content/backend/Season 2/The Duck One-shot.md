@@ -1,0 +1,48 @@
+- On a [[Si Gadol]]
+- Meets [[Jaun]]
+- We are all [[Akum]]
+- [[Peking Vanderquack]]
+- "The [[eye]] is closing"
+- ![[Mavaser]]
+- Triton is [[Yasha al-Damim]]
+- We go to the duck bros camp
+- The [[Miv’chaan]]
+- Taken to [[Aeris Aelohai]]
+- Dank inhales a fish and says [[Alahdir Ahk Nebar]]
+	- So says the prophecy
+- [[Melekh Kharish]]
+- [[Glaedril's Fish Vision]]
+
+Brought to the watering hole
+- [[Elodim lashar]] r there
+- Sister [[Kayuga Waddles]]
+- Triton bloods the pool and it responds to tritons blood
+- Triton kills [[Melekh Kharish]] :((((
+
+Going to [[Eres Elohai]]
+- Falls into the space with
+- [[M'Vaser Mallardy Duckington]]
+- The [[The Gem]] floats above [[M'Vaser Mallardy Duckington]]
+- Swallows gem, bones crack and the body disfigures and the islands shatter under the weight of the [[M'Vaser Mallardy Duckington|M'Vaser]]
+- Fucks the [[M'Vaser Mallardy Duckington|M'Vaser]] up
+- [[Dank Duckleberry]] moves gem toward [[Jaun|Jaun]] AND CALLS HIM [[Yasha al-Damim]]
+- [[Dank Duckleberry|Dank]] disappears
+- [[Jaun|Jaun]] intends to use the gem to become man
+	- Which is illegal in the [[Dhukar]] bc its bad n shit 
+	- Like it attracts spicy things
+- [[Jaun|Jaun]] becomes a prince charming wearing like scraps of aluminum foil
+- A pair of eyes looks through the gem
+- [[Jaun]] becomes [[Yasha al-Damim]] and the new [[M'Vaser Mallardy Duckington|M'Vaser]]
+- The sun appears 
+- [[Dank Duckleberry|Dank]]'s eyes grow gold
+- the ducks levitate into the sun
+- [[Dank Duckleberry|Dank]] says theyve all become gods
+- the island is now sea level
+- [[Triton]] grabs the gem
+	- and realized his boat is fixed
+- [[Triton]] sees [[The Gem Prophecy]]
+- [[Glaedril's second Fish Vision]]
+- [[Glaedril]] has blue eyes and is now not Hetarachromic 
+- They said they stand no chance against us when were together
+- Magic is gonna die and be reborn
+- THe gods have fallen to their own hubris

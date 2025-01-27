@@ -1,0 +1,3 @@
+- 4 Major Gods will bring together 4 winds into one place 
+- To maintain a relationship with eachother
+- 

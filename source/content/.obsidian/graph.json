@@ -1,0 +1,142 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#backend  -path:backend  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:Archive",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#GoodGuys",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Untrustworthy",
+      "color": {
+        "a": 1,
+        "rgb": 14731602
+      }
+    },
+    {
+      "query": "tag:#BadGuys",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Character",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#Player",
+      "color": {
+        "a": 1,
+        "rgb": 1168404
+      }
+    },
+    {
+      "query": "tag:#Organisation",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Context",
+      "color": {
+        "a": 1,
+        "rgb": 4196141
+      }
+    },
+    {
+      "query": "tag:#backend",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#God  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Realm  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Language  ",
+      "color": {
+        "a": 1,
+        "rgb": 5926234
+      }
+    },
+    {
+      "query": "tag:#Vision",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Item",
+      "color": {
+        "a": 1,
+        "rgb": 14701180
+      }
+    },
+    {
+      "query": "tag:#Beast  ",
+      "color": {
+        "a": 1,
+        "rgb": 6636555
+      }
+    },
+    {
+      "query": "tag:#Event",
+      "color": {
+        "a": 1,
+        "rgb": 13815955
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.337037037037037,
+  "repelStrength": 9.52592592592593,
+  "linkStrength": 1,
+  "linkDistance": 41,
+  "scale": 0.49318006750682075,
+  "close": false
+}

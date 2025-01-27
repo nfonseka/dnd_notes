@@ -1,0 +1,26 @@
+---
+tags:
+  - Vision
+---
+
+- Glaedril eats a fruit from the [[White Heart Tree]]
+- The recent history of the [[Gods of Feyrune|gods]]
+	- One is plate armour with hammer - [[Torm]]
+	- Other is using gauntlets
+	- Heat, Angry Orange Sky, Blackened, Thick black smoke, hot air mb
+	- possible [[Bane]]?
+	- 2 Figures
+		- Humanoid but 8-10 feet
+		- One of them holding a great hammer bringing it down the other and stabbing the other 
+			- Hammer Boy has a white gauntlet
+		- Other snaps the others neck?
+		- Both of the figures die
+	- The ground crumbles and falls into a void
+- 2 Powerful gods fight each other
+- A figure emerge from the pool of shadows
+	- comprised of writhing shadows
+	- Absorbs tendrils of green and black
+	- "Cetavor Zakooom" - [[Infernal]]
+		- I accept the blessing
+- Figure points to [[Glaedril]] and says
+	- I see you

@@ -1,0 +1,13 @@
+{
+  "useWikiLinkSyntax": true,
+  "quickLinks": [
+    {
+      "prefix": "w",
+      "target": "https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s"
+    },
+    {
+      "prefix": "a",
+      "target": "https://www.worldanvil.com/w/sword-coast-voldaren/a/%s"
+    }
+  ]
+}

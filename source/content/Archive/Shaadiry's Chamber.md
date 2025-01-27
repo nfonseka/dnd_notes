@@ -1,0 +1,5 @@
+- Round Chamber 
+- Dome
+- Chandelier
+- Sitting in chair is a [[Shaadiry]]
+- There is a statue and its cold to the touch

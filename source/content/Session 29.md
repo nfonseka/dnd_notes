@@ -1,0 +1,50 @@
+---
+tags:
+  - Session
+Location: "[[Underdark]]"
+---
+- Images in your head
+	- An image of the sun getting eclipsed and the sky turns completely dark
+	- The ground splits open - in the dark
+		- Open grassy field, there is movement and voices behind you. on the outskirts of a city
+		- Mountains either side of you but on a valley
+	- Sounds of laughter and screams
+		- Demented cackling
+	- Magma flows out of the ground
+	- Moving past you is upright humanoids with a snake tail weaving past you - a few hundred of them. Toward the chasm 
+	- Things crawling out of the chasms
+		- The snakes are slashing the creatures
+	- 2 legged people with heavy and spiky and unnatural armour
+		- holding a scythe 
+		- The 2 masked figures, [[Masked Mage]], [[Masked Mage 2]]
+			- Floating in their hand is a [[Onyx of Oblivion]] in a perfect sphere
+			- Tendrils of blood running around it
+		- Nods at the first masked mage and a tendril shoots and wraps around your hand
+		- Other people moving towards you toward the chasms,
+		- The party is wrapped in tendrils
+			- Jaun then glaedril, martin on left
+			- Bel and Triton on the left
+	- Triton has a vision about the [[The Gems]]
+		- ![[The Gems#^ed6cef]]
+	- [[Shar]] shows up on [[Varis' Robe]] 
+	- We saw something we were not supposed to see.
+	- There is a burn mark on back of [[Varis' Robe]] from a fire-bolt spell, this was also on Varis's Body
+		- This is the robes reacting
+		- [[Varis Firahel]] was killed by using
+	- The graverobbers were killed by "The Devil"
+		- Corpses and dust
+		- We came through the mines, theres a stariway the leads down to a cavern. If you ascend the cavern you wil lfidn the path to the mines
+		- You need to leave
+		- Only death is here
+		- tell noone to find this place ever again
+	- Massive serpentine skeleton in the acid, big fuck ass snake
+	- The altar is in pristine condition, tiefling horns were burnt up on the altar. The surface has a carving of bowl, on the other side is channel leading into the acid
+	- Around the alter is runes
+	- The writing feels forbidden, and magic is blocking comprehend language
+
+- 2 Serpentine with a kupesh and a dagger? and a 
+- 10 feet down from us is slightly causting water
+- Glowing plants, vines with bioluminescant
+- They are construsts,
+- The emerald protecting it from  dispel magic
+- attacked by snake creatures, next time remember to hypnotic pattern them, they have low wisdom and intelligence and charisma.

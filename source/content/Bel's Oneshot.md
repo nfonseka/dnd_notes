@@ -1,0 +1,48 @@
+---
+tags:
+  - Session
+  - One-Shot
+Characters:
+  - "[[Bel]]"
+  - "[[Trixie]]"
+  - "[[Ricciardo]]"
+  - "[[Diego]]"
+---
+- There is a poem for access to the tome??
+	- ![[rn_image_picker_lib_temp_847633b6-cf86-40db-ac46-837c033e9e1f.jpg]]
+
+- We are stealing a tome of something and the poem will help??
+- Mirror that shows a younger version of [[Bel]] with a burn mark on her face. Effect of a fiery eruption / explosion
+- Moira takes the delivery
+- The book is about the moon and reading the future
+	- Right now the moon phase is the waning gibbous
+- Scrivener's [[Tale]] by [[Zyrian
+	- [[Zyrian]] is a tiefling playright 
+	- A play written about an archfairy called the princess of shadowglass who suposedly was selfish and immoral. Archfairy are godlike fairy;s. She is locked in a mud room? with the queen of of darkness in the feydark. The queen of air and darkness is a gleaming black crystal over petrified wood. She does not seem to hve a physical form besides that. The princess of shadowglass is supposedly is cast as a role of the protagonist. The end is a monologue with bloody reprisal for anyone that wronged her.
+	- The queen of air an ddarkness has wronged her by exiled the princess to the mortal realm.
+	- A date indicating the tear she was banished was the year 400 DR; 90 0 years ago
+	- The text from the play is being written on [[Bel]]'s arm
+	- bel gets magical protection
+- AC15
+- "The princess of shadowglass must die"
+- The book slams shut and shadows wrap around it
+	- A voice of a woman: "well well well, " we have gotten ourselves into a predicament
+		- she is the princess of shadowglass
+	- She is the princess of shadowglass, she is being honest. We are her one hope of slavation. The book known as the scriveners tale, written by a rat, is her prison. The queen is her mother who seeks to twist or corrupt the feydark. feydarlk is not corrupt, there has to be balance. the feywild is the foil for the feydark. 
+	- The mark will keep growing, the princess can give her blessigns but if it keeps growing it will kill bel. 
+	- bel has to free her to free herself
+		- The book is also a portal 
+	- 7 times burned
+	- 7 times tirn =
+	- 7 oages ifferend to the 
+	- 7 eyes closed =
+	- 7 lies told
+	- 7 drops of blood
+	- 7 something
+	- 7 flames 7 fold??
+	- incoherant whispering in our mind that is maddening
+		- once voice saying silence and the voices go silent
+		- time slows again
+		- we are wrenched through time and space in complete darkness
+	- 7 locks, 7 keys, 7 eyes which do not see, 7 hearts, 7 souls, 7 mortals, 7 harbingers of woe
+	- Trixie becomes the new wardern 
