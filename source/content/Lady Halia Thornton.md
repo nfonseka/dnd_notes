@@ -5,7 +5,7 @@ tags:
 aliases: 
 Organisations:
   - PhandolinMiner'sExchange
-  - PennilessMerchents
+  - "[[Penniless Merchants]]"
 ---
 Owner of [[Phandolin]] Miner's Exhange. [[Penniless Merchants]]
 

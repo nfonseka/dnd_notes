@@ -45,6 +45,7 @@
     "Vulnerabilities": "multitext",
     "Language of": "multitext",
     "Language": "multitext",
-    "Characters": "multitext"
+    "Characters": "multitext",
+    "Locations": "multitext"
   }
 }

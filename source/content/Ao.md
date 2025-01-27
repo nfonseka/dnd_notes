@@ -1,6 +1,6 @@
 ---
 tags:
   - God
-God of:
+God_of:
   - "[[Gods of Feyrune]]"
 ---

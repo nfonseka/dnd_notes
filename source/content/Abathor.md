@@ -2,7 +2,7 @@
 tags:
   - God
   - Dwarven
-God of:
+God_of:
   - Greed
 ---
 - Exiled from the dwarven pantheon for meddling in magic and powers he had no understand

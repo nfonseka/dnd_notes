@@ -29,8 +29,8 @@ Year: 1358
 ![[Session 27]]
 ![[Session 28]]
 ![[Session 29]]
-![[Bel's Oneshot]]
-![[Flashback Oneshot]]
+![[Bel's One-Shot]]
+![[Mind Goblin One-Shot]]
 ![[Session 30]]
 ![[Session 31]]
 ## Characters

@@ -19,7 +19,7 @@
 - [[Martxn]] is disguised as Weezer [ref](https://media.discordapp.net/attachments/1121077159801397350/1241620489810481152/image.png?ex=664adcb0&is=66498b30&hm=f6ed58b30fc3f8a2b2b47c1bddae0d0b7b97d9d3767fda0336ff479d4453a1cd&=&format=webp&quality=lossless&width=323&height=768)
 - [[Glaedril]] is a squire
 - [[Jaun|Jaun]] has a [banner](https://media.discordapp.net/attachments/1121077159801397350/1241623165898194964/maxresdefault.png?ex=664adf2e&is=66498dae&hm=b115275499429f3f00cbdb8dff34dbad72ec446bd49e2a38aae50a41be06cf56&=&format=webp&quality=lossless&width=1240&height=698)
-- [[Jaun]] and the [[The Duck One-shot|ducks]] are from the lake
+- [[Jaun]] and the [[The Duck One-Shot|ducks]] are from the lake
 - Assasins may have been wiped out by divine somethe (see [[Bhaal]])
 - Toblin of [[Yartar]]
 - Theres something pushing the orcs toward [[Phandolin]]

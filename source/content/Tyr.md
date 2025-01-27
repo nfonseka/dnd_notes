@@ -3,7 +3,7 @@ allies:
   - "[[Torm]]"
 tags:
   - God
-God of:
+God_of:
   - Warriors
 ---
 

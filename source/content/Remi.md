@@ -1,7 +1,7 @@
 ---
 tags:
   - Player
-Known Enemies:
+Enemies:
   - The Wizard of Drake Search Party
 ---
 

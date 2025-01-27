@@ -13,13 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abathor.md",
+                "file": "Session Notes/Season 2/Session 31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abathor"
+              "title": "Session 31"
+            }
+          },
+          {
+            "id": "37c96b642a22e2b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zorrithar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zorrithar"
+            }
+          },
+          {
+            "id": "c562d7c4a76af059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lord Nasher Alagondar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lord Nasher Alagondar"
             }
           },
           {
@@ -68,27 +98,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "685becac66d39a1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be04936388ee5ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zyrian.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zyrian"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lanin",
+                "query": "[\"Location\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,11 +164,13 @@
               "title": "Season 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 351,
+    "collapsed": true
   },
   "right": {
     "id": "db04c58c563903d8",
@@ -176,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flashback Oneshot.md",
+                "file": "Session Notes/Season 2/Session 31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +197,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flashback Oneshot"
+              "title": "Backlinks for Session 31"
             }
           },
           {
@@ -240,7 +251,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "285fa856850a25e3",
@@ -253,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Flashback Oneshot.md",
+                "file": "Session Notes/Season 2/Session 31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -276,12 +288,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5070637587945755,
+                  "scale": 0.21350164168814734,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Flashback Oneshot"
+              "title": "Graph of Session 31"
             }
           }
         ]
@@ -297,18 +309,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flashback Oneshot.md"
+                "file": "Session Notes/Season 2/Session 31.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Flashback Oneshot"
+              "title": "Outline of Session 31"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 368,
-    "collapsed": true
+    "width": 368
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,32 +334,32 @@
   },
   "active": "ab1dbf185e0f9c69",
   "lastOpenFiles": [
-    "_spells.md",
-    "_index.md",
-    "Archive/Garden Room.md",
-    "Archive/Questions for Triton.md",
-    "Archive/Library Room.md",
-    "Archive/Akum.md",
-    "Archive/5 Priest Chambers.md",
-    "BMO/Profiles/BMO.md",
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "Excalidraw/Drawing 2024-08-14 12.43.50.excalidraw.md",
-    "Chats/New Chat.md",
-    "Session Notes/Season 2/Session 31.md",
-    "smart-chats/UNTITLED CHAT 2024-09-22 03 34 27.md",
-    "smart-chats/UNTITLED CHAT 2024-09-22 03 19 19.md",
-    "Session Notes/Season 2/Session 25.md",
-    "Session Notes/Season 2/Session 26.md",
     "index.md",
-    "Untitled 1.md",
-    "Goliath.md",
-    "Inquisitorium Venidictus.md",
-    "Session Notes/Season 2/Season 2.md",
-    "Zyrian.md",
-    "Onyx of Oblivion.md",
-    "Legend Lore.md",
-    "Bloodstone.md",
+    "Session Notes/Season 2/Session 31.md",
+    "Adabra Gwynn.md",
+    "Zentaren.md",
+    "Varis' Journal.md",
+    "The Temple.md",
+    "Waterdeep.md",
+    "Shaar.md",
+    "Facktoré.md",
+    "Gara.md",
+    "Gemma and Lucile Sivlerhand.md",
+    "Lady Halia Thornton.md",
+    "Nalatheras.md",
+    "Silas.md",
+    "Symeera.md",
+    "Toblin.md",
+    "White Rat (Wizard).md",
+    "Yasha al-Damim.md",
+    "Zorrithar.md",
+    "Bel's One-Shot.md",
+    "Mind Goblin One-Shot.md",
+    "One-.md",
+    "Session Notes/Season 2/The Duck One-Shot.md",
+    "Archive/green guard.md",
+    "Lanine.md",
+    "Lionshield Coster.md",
     "Untitled 1.canvas",
     "Pasted image 20240217123534.png",
     "assets/rn_image_picker_lib_temp_847633b6-cf86-40db-ac46-837c033e9e1f.jpg",

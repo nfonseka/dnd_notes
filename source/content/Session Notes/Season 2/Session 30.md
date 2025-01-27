@@ -1,6 +1,9 @@
 ---
 tags:
   - Session
+Locations:
+  - "[[Underdark]]"
+  - "[[Umbrage Hill]]"
 ---
 ## [[Underdark]]
 The Party is in the [[Underdark]]

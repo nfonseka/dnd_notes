@@ -4,7 +4,7 @@ tags:
 aliases:
   - The Lord of Bones
   - The Reaper
-God of:
+God_of:
   - Death and Decay
 ---
 

@@ -1,5 +1,5 @@
 ---
-God of:
+God_of:
   - Birth
   - Renewal
   - Spring
