@@ -8,48 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6897cb1432c19de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Season 2/Season 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Season 2"
-            }
-          },
-          {
-            "id": "2b9d1dc9e565cf93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 31.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 31"
-            }
-          },
-          {
             "id": "ab1dbf185e0f9c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goliath.md",
+                "file": "Abathor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goliath"
+              "title": "Abathor"
             }
           },
           {
@@ -97,8 +67,7 @@
               "title": "Bloodstone"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "685becac66d39a1e",
@@ -186,8 +155,7 @@
               "title": "Season 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -349,39 +317,39 @@
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "2b9d1dc9e565cf93",
+  "active": "ab1dbf185e0f9c69",
   "lastOpenFiles": [
+    "_spells.md",
+    "_index.md",
+    "Archive/Garden Room.md",
+    "Archive/Questions for Triton.md",
+    "Archive/Library Room.md",
+    "Archive/Akum.md",
+    "Archive/5 Priest Chambers.md",
+    "BMO/Profiles/BMO.md",
+    "category-folder/index.md",
+    "category-folder/Some note.md",
+    "Excalidraw/Drawing 2024-08-14 12.43.50.excalidraw.md",
+    "Chats/New Chat.md",
+    "Session Notes/Season 2/Session 31.md",
+    "smart-chats/UNTITLED CHAT 2024-09-22 03 34 27.md",
+    "smart-chats/UNTITLED CHAT 2024-09-22 03 19 19.md",
+    "Session Notes/Season 2/Session 25.md",
+    "Session Notes/Season 2/Session 26.md",
+    "index.md",
+    "Untitled 1.md",
     "Goliath.md",
-    "Session 31.md",
     "Inquisitorium Venidictus.md",
-    "backend/Season 2/Season 2.md",
+    "Session Notes/Season 2/Season 2.md",
     "Zyrian.md",
     "Onyx of Oblivion.md",
     "Legend Lore.md",
     "Bloodstone.md",
-    "backend/Season 2/Session 18.md",
-    "backend/Season 2/Session 20.md",
-    "Adabra Gwynn.md",
-    "The Scriveners tale.md",
-    "Dwarves in Yatar.md",
-    "backend/Season 2/Session 22.md",
-    "Bel's Oneshot.md",
-    "Yartar.md",
-    "Session 30.md",
-    "Bane.md",
-    "Another Vision.md",
-    "Bhaal.md",
     "Untitled 1.canvas",
-    "Session 29.md",
-    "Flashback Oneshot.md",
-    "Cronox.md",
-    "Shar.md",
-    "Varis Firahel.md",
-    "Session 27.md",
     "Pasted image 20240217123534.png",
     "assets/rn_image_picker_lib_temp_847633b6-cf86-40db-ac46-837c033e9e1f.jpg",
     "Untitled.canvas",
@@ -392,8 +360,8 @@
     "BMO/Profiles",
     "BMO",
     "smart-chats",
-    "backend/Season 2",
-    "backend/Season 1",
+    "Session Notes/Season 2",
+    "Session Notes/Season 1",
     "Chats",
     "assets/Pasted image 20240922124132.png",
     "assets/Pasted image 20240608125110.png",
@@ -402,6 +370,6 @@
     "assets/Pasted image 20240713210511.png",
     "assets/Pasted image 20240713195801.png",
     "Slurped Pages",
-    "backend"
+    "Session Notes"
   ]
 }
