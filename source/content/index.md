@@ -1,3 +1,6 @@
+---
+title: Home Page
+---
 
 - [[Season 2]]
 - [[Season 1]]
