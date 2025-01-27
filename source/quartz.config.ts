@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
-    pageTitleSuffix: "",
+    pageTitle: "Sword Coast Campaign",
+    pageTitleSuffix: "Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "nfonseka.github.io/dnd_notes",
+    ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
