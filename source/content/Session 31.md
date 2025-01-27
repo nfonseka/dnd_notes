@@ -2,14 +2,18 @@
 tags:
   - Session
 ---
-at [[Umbrage Hill]].
+
+```ad-summary
+At [[Umbrage Hill]], the party is recounting the events of the previous encounters to [[Adabra Gwynn|Adabra]]. She discloses that a lot of information has been obfuscrated and has happened in other places, this was something [[Varis Firahell|Varis]] was researching. Adabra shows that [[Rosette] is missing and there is a coded message saying meet them in [[Yatar]]. Adabra creates an area of truth and forces thed party to disclose that they freed [[Talos]], unknowingly but also that
+```
+at [[Umbrage Hill]]
 - [[Adabra Gwynn|Adabra]] tries to cast the [[Legend Lore]] on the scroll but something is supressing this knowledge
 	- Not the first time we have seen this obfuscation: [[Candlekeep]], [[Neverwinter]] 
 	- [[Varis Firahel]] saw this obfuscation
 	- Someone very hard is trying to obscure a lot of information
 - There is an entrance to the [[Underdark]] in the [[Mountain Toe Gold Mine]] which is in Yataran Control
 - [[Rosette]] is missing
-	- Meet us 
+	- Meet us in Yatar in [[Umbra of Raxes]] code
 - [[Inquisitorium Venidictus]]
 	- "Witch Hunters"
 - Silas points us at Bel's ring
