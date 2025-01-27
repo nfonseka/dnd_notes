@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1690900963338,
+      "title": "Story Graph",
+      "options": {
+        "collapse-filter": true,
+        "search": "-path:Backend",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "tag:Archive",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          },
+          {
+            "query": "tag:#GoodGuys",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "tag:#Untrustworthy",
+            "color": {
+              "a": 1,
+              "rgb": 14731602
+            }
+          },
+          {
+            "query": "tag:#BadGuys",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "tag:#Character",
+            "color": {
+              "a": 1,
+              "rgb": 5399264
+            }
+          },
+          {
+            "query": "tag:#Location",
+            "color": {
+              "a": 1,
+              "rgb": 5419488
+            }
+          },
+          {
+            "query": "tag:#Player",
+            "color": {
+              "a": 1,
+              "rgb": 1168404
+            }
+          },
+          {
+            "query": "tag:#Organisation",
+            "color": {
+              "a": 1,
+              "rgb": 11621088
+            }
+          },
+          {
+            "query": "tag:#Context",
+            "color": {
+              "a": 1,
+              "rgb": 4196141
+            }
+          },
+          {
+            "query": "tag:#backend",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.497037037037037,
+        "repelStrength": 9.52592592592593,
+        "linkStrength": 1,
+        "linkDistance": 272,
+        "scale": 1.4075411324414833,
+        "close": true
+      }
+    },
+    {
+      "type": "file",
+      "ctime": 1690901041736,
+      "path": "backend/Season 1/Season 1.md"
+    }
+  ]
+}

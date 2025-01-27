@@ -1,0 +1,22 @@
+---
+tags:
+  - backend
+---
+
+- Point Guard
+	- Skill
+		- Acrobatics: +9
+		- Dexterity: +7
+	- Saving Throw
+		- Dexterity: +7
+- Centre
+	- Skill
+		- Dexterity: +5
+	- Saving Throws
+		- Strength +9
+- Shooting Guard
+	- Skill
+		- ICBM: +7
+- Factoré
+	- Acrobatics +3
+	- Has Magic Boots = mb dispel

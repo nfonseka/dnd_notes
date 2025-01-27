@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"45f13612962ad652","x":-380,"y":-180,"width":400,"height":400,"type":"file","file":"Archive/Church of Oghma Main Base Downstairs.md"},
+		{"id":"410a500ed312cb46","x":167,"y":-416,"width":400,"height":256,"type":"file","file":"Archive/Library Room.md"}
+	],
+	"edges":[
+		{"id":"9834cd38581b23a7","fromNode":"45f13612962ad652","fromSide":"right","toNode":"410a500ed312cb46","toSide":"left"}
+	]
+}

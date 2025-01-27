@@ -1,0 +1,2 @@
+- Create a projectoin to attack
+- only the image or the OG can attack at a turn

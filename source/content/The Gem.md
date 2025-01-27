@@ -1,0 +1,2 @@
+- Part of the Crown
+- Embues Water Shaping abilities

@@ -1,0 +1,2 @@
+Book about [[Zakhara]]
+![[Zakhara]]

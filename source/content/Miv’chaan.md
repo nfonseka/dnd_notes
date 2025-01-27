@@ -1,0 +1,1 @@
+(The Trial): The Trial where the [[Yasha al-Damim]] must overcome The [[Melekh Kharish]]

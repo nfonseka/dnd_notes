@@ -1,0 +1,39 @@
+## [[Phandolin]]
+- Triton goes to [[Barthen's Provisions]]
+- Triton buys a Miner's Pick
+- Goes into [[Stone Hill Inn]]
+- Triton drinks [[The Death Liquor]]
+- Teenager comes out with [[Deep Purple Flower]] which helps the spicy
+- Triton has [[Fishtastic's Shakshouka]]
+- [[Yartar]]
+- [[Lady Halia Thornton]] and [[Saphina Gobble Crag]]
+- It is [[Saphina Gobble Crag]] birthday 
+- [[Lanine]]
+- [[Adabra Gwynn]]
+- [[Harbin]] has business with [[Saphina Gobble Crag|Craggy]]
+- [[Toblin]] wanted to leave [[Yartar]] because it is an open secret that it is run by organised crime
+	- Governments that are against organised crime
+	- A lot of corruption
+	- Companies have been cleared of all charges but they know that's not true
+	- If you say the wrong thing,, you disappear.
+- Lake has [[Ruby of Reflection]] Powers
+- Magic ripples in the lake
+- Historically a presence of orcs
+	- Incondusive to civilation
+	- Monsters in the area
+	- Calmer around [[Phandolin]] 
+	- Watch your back in [[Yartar]] 
+- Sneaking near Miners Exchange
+	- Someone Bolt's Out and [[Dimension Door]]
+	- 3 Levels
+		- Upper levels has 1 window on each side
+		- Bottom floor has 2 windows
+	- Looking in
+		- Someone is in there and they close the door behind them
+		- Doesn't look like theres private sanctum
+		- Main hall is BIG
+		- Huge ceiling
+		- Chandelier
+		- Fountain in the centre - Water isn't running
+		- Stuff hanging on the walls with unmanned tills
+		- Doors into other rooms

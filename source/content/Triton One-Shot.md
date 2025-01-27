@@ -1,0 +1,11 @@
+---
+tags:
+  - backend
+---
+- Triton meets [[The Challengers]] and are on the way to an island for ruins
+- Ruins over a thousand years old
+- Clean [[Locthar]] skeleton
+- Magic is leaking out of a patch
+- There is a yucky fish creature
+	- Immune to radiant damage
+- There was a crystal with trapped [[Locthar]] souls

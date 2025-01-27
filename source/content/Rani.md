@@ -1,0 +1,6 @@
+---
+tags:
+  - Character
+---
+Sibling: [[Remi]]
+

@@ -1,0 +1,1 @@
+Akum (Heathens): What the [[Duck Kind]] call any non-avian creature

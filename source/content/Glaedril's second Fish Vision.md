@@ -1,0 +1,22 @@
+- Memory or Vision of the [[M'Vaser Mallardy Duckington|M'Vaser]] disintegrating
+- as the body breaks, the ashes float down and a hand grabs at it and pulls it into the corrosive water
+- Scoops up the ashes and retreats into the blood
+
+- The sun bright in the sky but the sun eclipses out of nowhere
+- In a dark room, face down 
+- [[Remi]] on the ground, bleeding out.
+- Deep blue stones
+- Martxn is unconcious on the ground
+- Triton casts a healing spell
+- A figure that [[Bel]] knows
+- He's holding [[Bel]] in the air
+- Prone on the ground and reaching up is [[Jaun|Jaun]] reaching up
+- Another figure stomps on [[Jaun|Jaun]]'s hand 
+- Uses stone at [[Bel]]  and tendrils reach [[Bel]]  and sap her life force
+- [[Triton]]  and [[Martxn]] are gone
+- The roar of a large creature nearby
+- the temperature drops
+- [[Bel]] is thrown across the room
+- The hooded figure said to the mask figure says
+	- "You were right there stand no chance against us together"
+- Glaedril gets pushed 

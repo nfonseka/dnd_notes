@@ -1,0 +1,1 @@
+“As the eye closes, the gods fall to their own hubris. The time of man comes to an end. A noble soul of the seas, the Yasha al Damim, will bring the era of our ascension, the fall of all civilisation, and the rebirth of magic. Let the Holy War begin.”

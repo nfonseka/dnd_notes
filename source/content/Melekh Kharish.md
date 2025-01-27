@@ -1,0 +1,1 @@
+(The King of Sharks). Must be overcome to prove they are truly the prophesied chosen one

@@ -1,0 +1,47 @@
+### Glaedril's House
+- Bootlegs comes up from the floor
+- Bel is 😴🛌
+- Plan:
+	- Sneak across the bridge. Triton will be researcher and we will be subjects.
+	- [[Remi]] and [[Boot Leg]] will sneak into the Barracks via sewers and go invisible and get guard outfits for everyone else
+## Barracks
+- Lester: They've sent out more guards
+	- "I know we'll find them and they will pay"
+	- Glasses clinking
+- Warrant for our arrest
+- Hiding S
+	- Under table
+	- Desk
+	- Bed
+	- Wardrobe
+- Out the window is more guard barracks
+	- 5 ft off the ground
+	- Search order
+	- Execution Writ
+	- Announcement of we have found the Luskan spies that have killed Varis
+- Office
+	- Letter to Waterdeep to ask for Waterdeep for a war against Luskans
+	- Blank Stack of paper
+	- Letter from [[Maria Ashton|Delila's cousin]]
+		- How u doin babes
+		- SIKE ITS A SECRET
+			- not good vibes
+			- no to/from
+			- "Find him, bring him back, whatever it takes"
+	- Bootleg knows something 
+	- [[First Knight Ashton]] is trying to cook a idk
+		- i take some
+	- i take a piece of mushroon
+	- Keyring -> 2 keys
+	- Drugged the water
+	- Killed everyone but Lester -> Tied  and Gagged Lester 
+	- [[Bernadette]] is EVIL - SIKE
+	- Remi goes to horny mind jail and has to do [[Bernadette's Dance]]
+	- [[Displacer Beast]]: it says ARGHH
+	- The dragons name is [[Zorrithar]]
+## Boat
+- Bells go off and comotion from church of [[Tyr]]
+- Shit happens in the [[Church of Oghma]] and people with torches exit the building
+- Do a lil cheese sendoff for [[Bernadette]]
+- Glaedril has [[Another Vision]]
+	![[Another Vision]]
