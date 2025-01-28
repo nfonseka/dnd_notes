@@ -2,7 +2,7 @@
 title: Home Page
 ---
 ## Session Notes
-### Season 2
+### [[Season 2]]
 ```dataview
 TABLE Locations, file.outlinks as "Outlinks"
 From "Session Notes/Season 2"
