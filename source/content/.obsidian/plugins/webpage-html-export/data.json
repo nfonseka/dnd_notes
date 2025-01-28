@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\nidul\\Downloads\\dnd-notes",
+  "exportPath": "/home/nidula/Dropbox/hosted_dnd_notes",
   "filesToExport": [
     []
   ]

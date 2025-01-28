@@ -10,6 +10,5 @@
   "templater-obsidian",
   "obsidian-file-cooker",
   "webpage-html-export",
-  "obsidian-pandoc",
-  "obsidian-enhancing-export"
+  "obsidian-pandoc"
 ]
