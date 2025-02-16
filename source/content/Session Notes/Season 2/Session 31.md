@@ -40,3 +40,60 @@ Locations:
 	- Goat got an amulet of plane shifting
 
 - Remi finds a magic cards that shows a bard on an adventure that represents remi
+- [[Tarot Woman]] around for millenia, a force of nature 
+	- About our past
+		- The Tower
+			- Disaster in our past
+			- Unexpected Upheaval
+			- Broken Pride
+			- Failiures and mistakes that haunt you
+		- The World - inverted
+			- In Completion
+			- Regret
+			- Lack of closure
+			- Dour past?
+		- The high priestess - inverted
+			- Loss of our inner
+			- Lack of centre
+			- Repressed feelings
+	- The future
+		- The Lovers upright
+			- Can be guidance or the present state
+			- Partnerships
+			- Unity
+			- Companionship
+			- Duality
+		- Death upright
+			- New begninings
+			- Change
+			- Metamorphosis
+			- The end of a cycle
+			- Perhaps a journey to go through 
+		- Justice upright
+			- unity to change to justice
+			- The truth
+			- Clarity
+			- understanding of cause and effect
+		- The moon - inverted
+			- Confusion 
+			- Fear
+			- Misinterpretation
+			- Nothing will be as it seems
+		- The fool - inverted
+			- Recklessness
+			- Inconsideration
+			- being taken advantage of
+		- The devil
+			- image shifts into the bloodstone wielders
+			- [[Masked Mage]], [[Masked Mage 2]]
+			- devils seek to rule reality, wish to enslave those that can, power, control, domination, the agenda of devils
+				- demons are creatures of chaos, madness, wanton destruction for their own sake
+				- if demons consume all of reality what is there left to rule
+				- They have been at war since the beginning of time
+				- If a devil or demon dies outside of the 9 hells, the will be banished back to their home plane
+				- If the are vanquished within their home plane, the die a true death
+				- In [[iverniss]], every death is a permanent one
+				- Fight a slowly losing war or dive into the plane of your enemy and die and die again.
+				- Devils are fighting a war in iverniss, not winning or losing
+				- Bel's bloodline traces back to iverniss
+				- 
