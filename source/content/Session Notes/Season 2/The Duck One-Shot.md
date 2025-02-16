@@ -1,4 +1,4 @@
-- On a [[Si Gadol]]
+ - On a [[Si Gadol]]
 - Meets [[Jaun]]
 - We are all [[Akum]]
 - [[Peking Vanderquack]]
