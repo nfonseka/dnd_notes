@@ -14,7 +14,7 @@ Owner:
 	 - Taboo Magic
 	 - Exchanging lives for magic
 	 - Outlawed for millenia
-	 - The only known user turned themselves in to helmsholme
+	 - The only known user turned themselves in to [[Helmshold]]
 	 - He something and all of the guards mutilate themselves
 		 - Stab their ears
 		 - Gouge their eyes

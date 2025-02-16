@@ -20,7 +20,7 @@ Locations:
 	- "Witch Hunters"
 - Silas points us at Bel's ring <- Friends yay, salutes to remi with [[Nalatheras]] 
 - Adabara was stopping the witchhunter <- Still friends
-- On a caravan with Nathaniel and Thalamane
+- On a caravan with Nathaniel and Delamane
 	- They are high ranked but different erank
 		- Start / Shield with crossed swords
 	- Conversation in the other caravan
