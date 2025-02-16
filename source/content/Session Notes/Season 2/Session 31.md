@@ -18,7 +18,8 @@ Locations:
 	- Meet us in Yatar in [[Umbra of Raxes]] code
 - [[Inquisitorium Venidictus]]
 	- "Witch Hunters"
-- Silas points us at Bel's ring
+- Silas points us at Bel's ring <- Friends yay, salutes to remi with [[Nalatheras]] 
+- Adabara was stopping the witchhunter <- Still friends
 - On a caravan with Nathaniel and Thalamane
 	- They are high ranked but different erank
 		- Start / Shield with crossed swords
@@ -27,14 +28,15 @@ Locations:
 		- They grab weapons and bags with potions
 	- A [[Goliath]]
 - Yataran's are losing
+- Jaun fights the warchief and is given the name "Godfist"
 - We make an OP goat:
 	- proficiency in wisdom saving throws
 	- Goat gets a warpick
 	- Unkillable twice
 	- disadvantage on int saving throws
-	- Gains darkvision -600 ft for 8 hrs
+	- Gains devilsight, can see through magical -600 ft for 8 hrs
 	- 9 temp HP
 	- can cast friends
 	- Goat got an amulet of plane shifting
 
-- Remi finds a magic cards that shows a bard on an adventure that represents remu
+- Remi finds a magic cards that shows a bard on an adventure that represents remi
