@@ -33,6 +33,7 @@ Year: 1358
 ![[Mind Goblin One-Shot]]
 ![[Session 30]]
 ![[Session 31]]
+[[Session 32]]
 ## Characters
 
 ## Players
