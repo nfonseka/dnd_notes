@@ -96,4 +96,4 @@ Locations:
 				- Fight a slowly losing war or dive into the plane of your enemy and die and die again.
 				- Devils are fighting a war in iverniss, not winning or losing
 				- Bel's bloodline traces back to iverniss
-				- 
+- 

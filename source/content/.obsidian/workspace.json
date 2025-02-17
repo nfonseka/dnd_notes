@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Season 2/Session 31.md",
+                "file": "Adabra Gwynn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 31"
+              "title": "Adabra Gwynn"
             }
           },
           {
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -265,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Triad",
+                "query": "Wizard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yartar.md",
+                "file": "Adabra Gwynn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yartar"
+              "title": "Backlinks for Adabra Gwynn"
             }
           },
           {
@@ -342,12 +342,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yartar.md",
+                "file": "Adabra Gwynn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Yartar"
+              "title": "Outgoing links from Adabra Gwynn"
             }
           },
           {
@@ -402,7 +402,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Yartar.md",
+                "file": "Adabra Gwynn.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -430,7 +430,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Yartar"
+              "title": "Graph of Adabra Gwynn"
             }
           }
         ]
@@ -446,13 +446,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yartar.md",
+                "file": "Adabra Gwynn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Yartar"
+              "title": "Outline of Adabra Gwynn"
             }
           }
         ]
@@ -474,12 +474,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "15ce999228647063",
+  "active": "574d84f129b0d834",
   "lastOpenFiles": [
-    "Bane.md",
-    "Yartar.md",
-    "Yatar.md",
+    "White Rat (Wizard).md",
+    "Varis' Robe.md",
+    "Varis Firahel.md",
+    "Session Notes/Season 1/Session 9.md",
+    "Archive/Garden Room.md",
     "Session Notes/Season 2/Session 31.md",
+    "Yartar.md",
+    "Bane.md",
+    "Yatar.md",
     "Masked Mage.md",
     "Masked Mage 2.md",
     "Shar.md",
@@ -497,11 +502,6 @@
     "The Triad.md",
     "Talos.md",
     "Bloodstone.md",
-    "Session Notes/Season 2/The Duck One-Shot.md",
-    "The Gem Prophecy.md",
-    "Zorrithar.md",
-    "Cerunnos.md",
-    "Glaedril.md",
     "_index.html",
     "output/_index.html",
     "output/attachment",
