@@ -37,11 +37,12 @@
 	- [[Xera]] clapping <- metal gauntlets
 		- "Very touching", ""
 	- Xera can make a bird like the [[Inquisitorium Venidictus]]
-	- 
 	- [[Merkeles]] is there
-	- [[]]
 
 - [[Glaedril]] has power to kill [[Xera]] but its hidden
 - Locate creatures don't work through leader
 - [[Yartar]] 
-- 
+- Rani wants to infiltrate the masquerade of the lords
+	- for the nobility to mingle with the commonfolk
+	- Everyone is given a mask that will conceil their identity
+	- Ranis plan is to steal a key at the masquerade and then investigate the hall of fortune
