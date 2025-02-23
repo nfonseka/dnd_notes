@@ -2,5 +2,4 @@
 tags:
   - Character
 ---
-- Silver Hands 
-- 
+- Public execution

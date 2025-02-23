@@ -73,7 +73,7 @@ There is a staircase where the ppl went
 
 - Damage total 
 - Mural of a Sun that is bashed in
-- Brand on our hearts/chest 
+- Branded on Remi and Jauns hearts/chest and it disappears
 
 - There are remains of horns from a tiefling
 - Surprisingly new chains

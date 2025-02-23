@@ -7,7 +7,6 @@
 	- Law and Chaos
 	- Hand wearing a black gauntlet - [[Bane]]
 	- Sees ![Image](https://media.discordapp.net/attachments/1121077159801397350/1200806936979984515/1000.webp?ex=65c7859b&is=65b5109b&hm=c4b6498a6a81a140da67e7b7458a7f7a6917dc55416b6a2a3e9690faf427912a&=&format=webp&width=1531&height=1195)
-	- [[Myrkul]] was there followi the person that stole the [[Tablets of Fate]]
+	- [[Myrkul]] was there following the person that stole the [[Tablets of Fate]]
 	- Says time to go and grabs and green something
 	- "You will not run away from this"
-	- 

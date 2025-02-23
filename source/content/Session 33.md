@@ -36,5 +36,12 @@
 	- [[Delilah Ashton]]
 	- [[Xera]] clapping <- metal gauntlets
 		- "Very touching", ""
+	- Xera can make a bird like the [[Inquisitorium Venidictus]]
+	- 
 	- [[Merkeles]] is there
 	- [[]]
+
+- [[Glaedril]] has power to kill [[Xera]] but its hidden
+- Locate creatures don't work through leader
+- [[Yartar]] 
+- 
