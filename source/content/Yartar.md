@@ -2,6 +2,7 @@
 tags:
   - Location
   - City
+allies:
 ---
 - [[Bane]]'s City 
 - City of Trade
@@ -9,6 +10,7 @@ tags:
 - Home of the Wasians
 - Run by Guilds
 - Canonically is Wasian
+- Jewel of the Desorate Valley
 ### Mining
 - Mining employs almost exclusively dwarves as they are more resilient
 - So they skimp on safety

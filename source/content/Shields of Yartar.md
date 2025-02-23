@@ -20,3 +20,5 @@ The Waterbaron of Yartar serves as the Shields' highest-ranking commander. They 
 ### History
 
 Yartar has never been involved in any major wars so the Shields have never been tested in all out war.
+
+![[Pasted image 20250223140724.png]]

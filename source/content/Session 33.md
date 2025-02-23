@@ -1,4 +1,4 @@
-- Caravan going toward Yatar
+- Caravan going toward [[Yartar]]
 - Holding a paper to the mages
 - ring structure with a shorter wall near the river
 - New Airships to ferry people to and from
@@ -8,3 +8,20 @@
 - Stamped on the scrolls is the yataran stamp, and a stamp of [[Lionshield Coster]] 
 - Bird looks directly at [[Remi]] 
 	- shape shifters or alter self
+- Meet [[Zacharia]] and [[Dorothia]]
+- [[Eye of Eternity]] - 
+- There is [[Lucille Silverhand]], [[Red Crow]] and [[Seath the Scarlet]]
+	- Lucille is holding up a glass item
+	- Lucille is the host and 
+	- New technology by [[Ferrus Mechanus]]
+	- Airships for 
+		- [[Lionshield Coster]]
+		- [[Penniless Merchants]]
+		- [[Shields of Yartar]]
+
+## Underdark Place
+- A lot of abjuration magic
+- they are disciples of [[Cyrrollalee]] and there is a statue of her
+- Water coming from a statue of her
+	- the water is casting lesser restoration on her
+	- 
