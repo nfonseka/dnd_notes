@@ -2,5 +2,3 @@
 tags:
   - Character
 ---
-- Silver Hands 
-- 
