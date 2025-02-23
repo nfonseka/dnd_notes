@@ -72,4 +72,22 @@ allies:
 		- [[Corvax the Dreamender]]
 		- [[Watcher's in the Dark]]
 		- Before the reformation, the Temple of [[Tymora]]
-			- Replaced
+			- Replaced into
+
+
+	- The Hands of iron
+		- Operate exclusively in [[Yartar]]
+		- [[Vashtor]]
+			- Made a machine known as [[Ferrus Mechanus]]
+		- Have a gang called the [[Fist of the Matyr]]
+- [[Lionshield Coster]]
+	- [[Smiling Company]] <- mercenary guild
+	- Run by [[Florian Belagarde]]
+		- known for partying and spoiled bratness but probably lies
+		- Running [[Lionshield Coster]] since he was 16 when his father died
+		- in charge for 30 years
+		- gang called the [[Collectors]] run by [[Machaes Markov]] who is a [[Drow]], dark elf
+	- Gangs only been running for 2 years
+
+- Rani thinks that the Silverhand sisters have something to do with the underdark
+- 
