@@ -1,0 +1,4 @@
+- Caravan going toward Yatar
+- Holding a paper to the mages
+- ring structure with a shorter wall near the river
+- 
