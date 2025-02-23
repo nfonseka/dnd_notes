@@ -1,7 +1,7 @@
 #backend
 ### Layer of the [[Umbra of Raxes]]
 - Only [[Martxn]] is awake but is pretending to be unconscious 
-- [[White Rat (Wizard)]] 
+- [[Merkeles]] 
 - We are all conscious and [[Rosette]] comes in and interogates us
 - Rosette brings out [[The Body (of Varis)]]
 - Uses a [[Scroll of Resist Thoughts]] to interogate Martxn

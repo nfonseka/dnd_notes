@@ -2,8 +2,8 @@
 tags:
   - Character
 allies:
-  - "[[First Knight Ashton]]"
+  - "[[Delilah Ashton]]"
 ---
 
-Right hand of [[First Knight Ashton]].
+Right hand of [[Delilah Ashton]].
 Asshole according to a guard.

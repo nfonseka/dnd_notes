@@ -19,7 +19,7 @@ A
 ## Characters
 ![[Bernadette]]
 ![[Symeera]]
-![[First Knight Ashton]]
+![[Delilah Ashton]]
 ![[Varis Firahel]]
 ![[Lord Nasher Alagondar]]
 ![[Lester]]

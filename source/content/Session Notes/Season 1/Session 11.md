@@ -29,7 +29,7 @@
 			- no to/from
 			- "Find him, bring him back, whatever it takes"
 	- Bootleg knows something 
-	- [[First Knight Ashton]] is trying to cook a idk
+	- [[Delilah Ashton]] is trying to cook a idk
 		- i take some
 	- i take a piece of mushroon
 	- Keyring -> 2 keys

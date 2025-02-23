@@ -9,7 +9,7 @@
 	- a streak of black and red
 
 ### Back in the hut
-- [[Rosette]] took the stone from [[First Knight Ashton]]
+- [[Rosette]] took the stone from [[Delilah Ashton]]
 - She was in [[Phandolin]] and there were 2 others
 - Knights soul is in the stone
 - The night [[Rhettekest]] died
