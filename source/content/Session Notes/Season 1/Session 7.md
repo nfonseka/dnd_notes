@@ -1,7 +1,7 @@
 #backend 
-1. [[First Knight Ashton]] stabs at [[Martxn]] in the chest and drops unconscious
+1. [[Delilah Ashton]] stabs at [[Martxn]] in the chest and drops unconscious
 2. Triton touches marxns tongue and heals martxn
-3. Triton knows that [[First Knight Ashton]] is an [[Echo Knight]]
+3. Triton knows that [[Delilah Ashton]] is an [[Echo Knight]]
 4. Triton activates the Teleportation Circle
 5. We all leave and rub out the thing
 
@@ -17,5 +17,5 @@
 5. we sleep
 6. Glaedril has [[Glaedril's Dream]]
 7. Squadron of guards are coming
-8. Orders from [[First Knight Ashton]] too look for luskan traitors
+8. Orders from [[Delilah Ashton]] too look for luskan traitors
 9. [[Soul Cage]] was learnt to trap Varis' Body

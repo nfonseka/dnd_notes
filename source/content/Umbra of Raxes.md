@@ -11,4 +11,4 @@ Rat Thieves Guild
 
 - [[Boris]]
 - [[Rosette]]
-- [[White Rat (Wizard)]]
+- [[Merkeles]]

@@ -1,4 +1,8 @@
-#Character
+---
+tags:
+  - Character
+---
+
 
 ![[Pasted image 20231228205321.png|200]]
 Captain of Neverwinter Guard
@@ -7,3 +11,6 @@ Captain of Neverwinter Guard
 	- source: [[Forbiddance]] which she triggered
 - When she was stabbed a greenish, grey figure emerged
 	- Zorathar. turns into a black dragon and escapes
+
+- Killed [[Rosette]]'s dad
+

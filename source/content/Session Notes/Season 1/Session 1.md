@@ -3,7 +3,7 @@
 1. Teleported to [[Symeera's Room]]
 2. . [[Triton]] remembers Teleportation Rune
 3. Symeera tells us about [[The Problem]], [[The Prophecy]], [[The Task]] and [[The Death]] of [[Varis Firahel]]
-4. [[First Knight Ashton]] is untrustworthy and is in charge of solving [[The Death]]
+4. [[Delilah Ashton]] is untrustworthy and is in charge of solving [[The Death]]
 5. Symeera gives [[Rewards]]
 6. Symeera teleports us to [[Church of Oghma Main Base Upstairs]]
 

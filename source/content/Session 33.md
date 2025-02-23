@@ -23,5 +23,18 @@
 - A lot of abjuration magic
 - they are disciples of [[Cyrrollalee]] and there is a statue of her
 - Water coming from a statue of her
-	- the water is casting lesser restoration on her
-	- 
+- the water is casting lesser restoration on her
+- [[Flekersk]] is here
+- [[Mishra]] and [[Boot leg]] are there
+- [[Sharp]]
+- [[Rosette]] is talking with [[]]
+	- Witchfire
+	- Brutal public execution by 
+	- Something that happened in [[Yartar]]
+	- She hears her screaming, like a soul being torn from her body and idk kinda gross gore <- witchfire
+	- Object hits the wooden table
+	- [[Delilah Ashton]]
+	- [[Xera]] clapping <- metal gauntlets
+		- "Very touching", ""
+	- [[Merkeles]] is there
+	- [[]]
