@@ -34,6 +34,7 @@ Year: 1358
 ![[Session 30]]
 ![[Session 31]]
 [[Session 32]], [[Zyrian]]
+[[Session 33]]
 ## Characters
 
 ## Players
