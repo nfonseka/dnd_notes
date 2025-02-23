@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 33.md",
+                "file": "Session Notes/Season 2/Season 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 33"
+              "title": "Season 2"
             }
           },
           {
@@ -212,8 +212,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,6 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Season 2/Season 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Season 2"
             }
           },
           {
@@ -381,6 +381,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Session Notes/Season 2/Season 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -408,7 +409,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Season 2"
             }
           }
         ]
@@ -424,12 +425,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Session Notes/Season 2/Season 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Season 2"
             }
           }
         ]
@@ -451,17 +453,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "818b8fcb439e17b9",
+  "active": "ab1dbf185e0f9c69",
   "lastOpenFiles": [
+    "Session Notes/Season 1/Session 1.md",
+    "Session 32.md",
+    "Session Notes/Season 2/Session 30.md",
+    "Session Notes/Season 2/Session 31.md",
+    "Shar.md",
+    "Gara.md",
+    "Nalatheras.md",
+    "Adabra Gwynn.md",
+    "Silas.md",
+    "Harpers.md",
     "Session 33.md",
     "Session Notes/Season 2/Season 2.md",
-    "Session 32.md",
-    "Session Notes/Season 2/Session 31.md",
     "Inquisitorium Venidictus.md",
-    "Session Notes/Season 2/Session 30.md",
     "Brand.md",
     "Lord's Alliance.md",
-    "Adabra Gwynn.md",
     "White Rat (Wizard).md",
     "Varis' Robe.md",
     "Varis Firahel.md",
@@ -472,13 +480,7 @@
     "Yatar.md",
     "Masked Mage.md",
     "Masked Mage 2.md",
-    "Shar.md",
     "The Wild Hunt.md",
-    "Princess of Shadowglass.md",
-    "Zyrian.md",
-    "The Scriveners tale.md",
-    "Ill Mater.md",
-    "The Triad.md",
     "_index.html",
     "output/_index.html",
     "output/attachment",

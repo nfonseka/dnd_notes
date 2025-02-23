@@ -1,4 +1,10 @@
 - Caravan going toward Yatar
 - Holding a paper to the mages
 - ring structure with a shorter wall near the river
-- 
+- New Airships to ferry people to and from
+- Sentient robot as a leader of [[Yartar]]
+- They teleport the islands a week before the festival, a few thousands spell slots are used
+- overflowing with mages and gold
+- Stamped on the scrolls is the yataran stamp, and a stamp of [[Lionshield Coster]] 
+- Bird looks directly at [[Remi]] 
+	- shape shifters or alter self
