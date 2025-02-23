@@ -48,3 +48,4 @@ Location: "[[Underdark]]"
 - They are construsts,
 - The emerald protecting it from  dispel magic
 - attacked by snake creatures, next time remember to hypnotic pattern them, they have low wisdom and intelligence and charisma.
+- 
