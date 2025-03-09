@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Season 2/Season 2.md",
+                "file": "Bel's One-Shot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Season 2"
+              "title": "Bel's One-Shot"
             }
           },
           {
@@ -38,18 +38,18 @@
             }
           },
           {
-            "id": "79ced9d5156a896f",
+            "id": "9d534f0daecfc85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 34.md",
+                "file": "Session Notes/Season 2/Session 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 34"
+              "title": "Session 31"
             }
           },
           {
@@ -67,8 +67,7 @@
               "title": "Glaedril's Emerald of Eternity Dream"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "45372ccae8128936",
@@ -87,6 +86,21 @@
               },
               "icon": "lucide-file",
               "title": "Emerald Dream"
+            }
+          },
+          {
+            "id": "79ced9d5156a896f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 34.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 34"
             }
           }
         ]
@@ -121,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Season 2",
+                "query": "7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351,
-    "collapsed": true
+    "width": 351
   },
   "right": {
     "id": "db04c58c563903d8",
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glaedril's Emerald of Eternity Dream.md",
+                "file": "Emerald Dream.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Glaedril's Emerald of Eternity Dream"
+              "title": "Backlinks for Emerald Dream"
             }
           },
           {
@@ -259,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Glaedril's Emerald of Eternity Dream.md",
+                "file": "Emerald Dream.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -287,7 +300,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Glaedril's Emerald of Eternity Dream"
+              "title": "Graph of Emerald Dream"
             }
           }
         ]
@@ -303,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glaedril's Emerald of Eternity Dream.md",
+                "file": "Emerald Dream.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Glaedril's Emerald of Eternity Dream"
+              "title": "Outline of Emerald Dream"
             }
           }
         ]
@@ -332,11 +345,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3583aa441a6c24bf",
+  "active": "1e5584d49eda86d4",
   "lastOpenFiles": [
-    "Session 33.md",
+    "Bel's One-Shot.md",
+    "Emerald Dream.md",
     "Session 34.md",
+    "Session 33.md",
+    "Session Notes/Season 2/Session 31.md",
     "Glaedril's Emerald of Eternity Dream.md",
+    "Session 32.md",
     "Session Notes/Season 2/Season 2.md",
     "Home.md",
     "Session Notes/Season 2/Session 30.md",
@@ -344,7 +361,6 @@
     "Session Notes/Season 2/Session 17.md",
     "Yartar.md",
     "Session Notes/Season 2/The Duck One-Shot.md",
-    "Emerald Dream.md",
     "Zorrithar.md",
     "Zyrian.md",
     "Yatar.md",
@@ -355,11 +371,8 @@
     "Sharp.md",
     "Flekersk.md",
     "Eye of Eternity.md",
-    "Session 32.md",
     "Averniss.md",
     "Baba Yaga.md",
-    "Candlekeep.md",
-    "Bel's One-Shot.md",
     "assets/Pasted image 20250223144931.png",
     "assets/Pasted image 20250223144855.png",
     "assets/Pasted image 20250223144717.png",
