@@ -3,4 +3,7 @@ tags:
   - Session
 ---
 - Rosette binds [[Rhettekest]]'s soul to a bloodstone
-- 
+- Ranni told us she was leaving and i was too young to understand
+- You hear a screeching, like the squeeking dirt in the underdark but amplified
+- You don't really remember anything 
+- Cloakers are the flying things in the mine
