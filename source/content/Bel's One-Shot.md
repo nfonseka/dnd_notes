@@ -16,7 +16,7 @@ Characters:
 - Moira takes the delivery
 - The book is about the moon and reading the future
 	- Right now the moon phase is the waning gibbous
-- Scrivener's [[Tale]] by [[Zyrian
+- Scrivener's [[Tale]] by [[Zyrian]]
 	- [[Zyrian]] is a tiefling playright 
 	- A play written about an archfairy called the princess of shadowglass who suposedly was selfish and immoral. Archfairy are godlike fairy;s. She is locked in a mud room? with the queen of of darkness in the feydark. The queen of air and darkness is a gleaming black crystal over petrified wood. She does not seem to hve a physical form besides that. The princess of shadowglass is supposedly is cast as a role of the protagonist. The end is a monologue with bloody reprisal for anyone that wronged her.
 	- The queen of air an ddarkness has wronged her by exiled the princess to the mortal realm.

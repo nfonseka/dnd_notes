@@ -16,4 +16,5 @@ tags:
 	- The tree has changed itself recently after the tendrils appear
 	- There is no reflection on the tree
 	- Moonlight fireflies
-	- 
+	- 7 locks, 7 keys, 7 lives, 7 deaths, 7 bargains made, 7 holy debts still left to collect
+- violent card humming
