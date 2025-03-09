@@ -25,3 +25,16 @@ tags:
 - [[Glaedril]]'s misfire causes a worm to eat her brethren and cerrunos sicks [[Hounds of the Hunt]] onto [[Glaedril]] and then cerrunos leaves her to die as he plunges a spear into [[Glaedril]].
 - When [[Glaedril]] makes a deal with shar, the shadows appear
 - Tabaxi Elves were made to hunt predators
+- Remi hears the voice of a child
+	- The child says "Dad look what we've found"
+	- High pitched scratching squaking noise in an intermittent rythm
+	- "Look at this" as if someome is rubbing something on a chalkboard and the screaching grows louder
+	- The voice of the child is remi, the desert darkens around you, the rocks start to glow a faint purple
+	- We have been pulled into what seems like the underdark
+	- "Look it glows" child remi says
+	- The ground begins to shake and the scratching noise stop and the screaching starts to grow louder
+- At this point the aspect looks at [[Remi]] 
+- Maximum volume screeching
+- Remi looking at the aspect of fear, remi for a brief moment, remi sees someome else; a silhouette of an adult ratfolk
+- We all hear the word run
+- 
