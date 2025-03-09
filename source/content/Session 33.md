@@ -50,4 +50,4 @@
 - [[Lucille Silverhand]] is [[Masked Mage 2]] 
 - and [[Liliana Silverhand]] is [[Masked Mage]]
 	- They probably also know we are here
-
+[[Session 34]]
