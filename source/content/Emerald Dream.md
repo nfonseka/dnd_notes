@@ -9,3 +9,4 @@ Soul of the Feywild
 	- The body may live on but the life of the soul has to be extended
 - The emerald dream prolongs and sustains ones soul
 - Most elves come don't come to the emerald dream
+- [[Triton]] also has an [[Emerald Dream]] 
