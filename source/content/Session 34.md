@@ -8,5 +8,9 @@ tags:
 - You don't really remember anything 
 - Cloakers are the flying things in the mine
 - [[Glaedril's Emerald of Eternity Dream]]
-- Triton has a vision
-	- Tr
+- Triton has a vision of his past
+	- Triton has whispers in his mind
+	- One Voice
+	- One eye ones and says to triton <- I see you
+		- Triton gazes into the abyss and the abyss stares back
+		- As now something can see it
