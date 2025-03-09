@@ -11,10 +11,15 @@ tags:
 - Massive Deathcoil
 - Mirror of past seeing shows a hole in [[Glaedril]] 
 	- Glaedril just appears
+	- Spear would
 	- Tattoo forms right as the wound appears
-	- [[Inquisitorium Venidictus]] is born in [[Helmshold]]
+	- [[Inquisitorium Venidictus]] are born in [[Helmshold]]
 - We need a ring of like hiding ourselves
-- - [[Tarot Woman]] around for millenia, a force of nature 
+- Learn that the feywild has volatile magic and shape and shange the feywild
+- Weather phenomenon are created by spirits and phenomenon
+- There are no rain spirits in this area
+- Time can shift and bend, not like the material plane
+- [[Baba Yaga]] around for millenia, a force of nature 
 	- About our past
 		- The Tower
 			- Disaster in our past
@@ -44,7 +49,6 @@ tags:
 			- The end of a cycle
 			- Perhaps a journey to go through 
 		- Justice upright
-			- unity to change to justice
 			- The truth
 			- Clarity
 			- understanding of cause and effect
@@ -66,7 +70,7 @@ tags:
 				- They have been at war since the beginning of time
 				- If a devil or demon dies outside of the 9 hells, the will be banished back to their home plane
 				- If the are vanquished within their home plane, the die a true death
-				- In [[iverniss]], every death is a permanent one
+				- In [[Averniss]] is the first layer, every death is a permanent one
 				- Fight a slowly losing war or dive into the plane of your enemy and die and die again.
 				- Devils are fighting a war in iverniss, not winning or losing
 				- Bel's bloodline traces back to iverniss

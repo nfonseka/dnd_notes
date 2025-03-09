@@ -10,6 +10,7 @@
 	- shape shifters or alter self
 - Meet [[Zacharia]] and [[Dorothia]]
 - [[Eye of Eternity]] - 
+	- Divination magic is broken but the eye is working
 - There is [[Lucille Silverhand]], [[Red Crow]] and [[Seath the Scarlet]]
 	- Lucille is holding up a glass item
 	- Lucille is the host and 
@@ -27,7 +28,7 @@
 - [[Flekersk]] is here
 - [[Mishra]] and [[Boot leg]] are there
 - [[Sharp]]
-- [[Rosette]] is talking with [[]]
+- [[Rosette]] is talking with
 	- Witchfire
 	- Brutal public execution by 
 	- Something that happened in [[Yartar]]
