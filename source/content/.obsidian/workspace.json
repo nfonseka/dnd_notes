@@ -8,691 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab1dbf185e0f9c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Season 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Season 2"
-            }
-          },
-          {
-            "id": "ca468008123cc815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 33.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 33"
-            }
-          },
-          {
-            "id": "646c12c52ef10d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seath the Scarlet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Seath the Scarlet"
-            }
-          },
-          {
-            "id": "8441e27fbbac2401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yartar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Yartar"
-            }
-          },
-          {
-            "id": "b1f41f21869dc3ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fist of the Matyr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Fist of the Matyr"
-            }
-          },
-          {
-            "id": "b1e4bbfdf833facc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vashtor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Vashtor"
-            }
-          },
-          {
-            "id": "709321520277ad76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tymora.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Tymora"
-            }
-          },
-          {
-            "id": "4e65ce9bb1ae52d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watcher's in the Dark.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Watcher's in the Dark"
-            }
-          },
-          {
-            "id": "17a3290ff3474881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samael.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Samael"
-            }
-          },
-          {
-            "id": "acc8663ec6f8fea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Night of the Witchfire.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Night of the Witchfire"
-            }
-          },
-          {
-            "id": "66f8b3535406110d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corvax the Dreamender.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Corvax the Dreamender"
-            }
-          },
-          {
-            "id": "e9038b59de44a41f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corvax the Dreamender.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Corvax the Dreamender"
-            }
-          },
-          {
-            "id": "e39192915d09f148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angron the Butcher.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Angron the Butcher"
-            }
-          },
-          {
-            "id": "6e8cce9e6bc76c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dorn the Vigilant.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dorn the Vigilant"
-            }
-          },
-          {
-            "id": "c1b0ecf403c7db66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magnus the All-Seeing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnus the All-Seeing"
-            }
-          },
-          {
-            "id": "ee8feb586b67b3da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hands of Iron.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hands of Iron"
-            }
-          },
-          {
-            "id": "371a2f7190d2aa63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waterbaron's Hall.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Waterbaron's Hall"
-            }
-          },
-          {
-            "id": "ea15d72810388a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alahar Khaumfros.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Alahar Khaumfros"
-            }
-          },
-          {
-            "id": "ed214056a5dd8e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 28"
-            }
-          },
-          {
-            "id": "0c1ff330d978b8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 33.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 33"
-            }
-          },
-          {
-            "id": "59be55ff0fb0e399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 33.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 33"
-            }
-          },
-          {
-            "id": "9e7fe6660b44a984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xera.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Xera"
-            }
-          },
-          {
-            "id": "b8436b0407e66675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Delilah Ashton.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Delilah Ashton"
-            }
-          },
-          {
-            "id": "c76def1b1d8234f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sharp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sharp"
-            }
-          },
-          {
-            "id": "867a5af2fcec491f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 32.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 32"
-            }
-          },
-          {
-            "id": "116bc6ecc9005e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yatar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Yatar"
-            }
-          },
-          {
-            "id": "4056cb083c9c6114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eye of Eternity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Eye of Eternity"
-            }
-          },
-          {
-            "id": "ab393bce4e728efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 31.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 31"
-            }
-          },
-          {
-            "id": "feb0f5e026f0cf75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 30"
-            }
-          },
-          {
-            "id": "60a1ebcf2f8fa703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Wild Hunt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Wild Hunt"
-            }
-          },
-          {
-            "id": "24aff2ce4e8a31d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 32.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 32"
-            }
-          },
-          {
-            "id": "35bbac0c43bccb1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zyrian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zyrian"
-            }
-          },
-          {
-            "id": "19e86b7ac47f6430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Princess of Shadowglass.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Princess of Shadowglass"
-            }
-          },
-          {
-            "id": "37c96b642a22e2b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zorrithar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zorrithar"
-            }
-          },
-          {
-            "id": "c562d7c4a76af059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lord Nasher Alagondar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lord Nasher Alagondar"
-            }
-          },
-          {
-            "id": "91f31ce1c5af0424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inquisitorium Venidictus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inquisitorium Venidictus"
-            }
-          },
-          {
-            "id": "93c71ace642d7c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Legend Lore.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Legend Lore"
-            }
-          },
-          {
-            "id": "302f54f93a84e015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/The Duck One-Shot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Duck One-Shot"
-            }
-          },
-          {
-            "id": "15ce999228647063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yartar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Yartar"
-            }
-          },
-          {
-            "id": "818b8fcb439e17b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b934a214e2ba1405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 17.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 17"
-            }
-          },
-          {
-            "id": "bb689b97ba0876cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bel's Visions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bel's Visions"
-            }
-          },
-          {
-            "id": "47f9c4d6150c9927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 30"
-            }
-          },
-          {
-            "id": "eb12040e1b54a3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "eac702f5887cda82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Season 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Season 2"
-            }
-          },
-          {
-            "id": "963a0b54feec89cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
             "id": "ab83349b4172f66d",
             "type": "leaf",
             "state": {
@@ -736,9 +51,45 @@
               "icon": "lucide-file",
               "title": "Session 34"
             }
+          },
+          {
+            "id": "3583aa441a6c24bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glaedril's Emerald of Eternity Dream.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Glaedril's Emerald of Eternity Dream"
+            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 3
+      },
+      {
+        "id": "45372ccae8128936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5584d49eda86d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emerald Dream.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Emerald Dream"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -811,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 351,
+    "collapsed": true
   },
   "right": {
     "id": "db04c58c563903d8",
@@ -828,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 34.md",
+                "file": "Glaedril's Emerald of Eternity Dream.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -838,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 34"
+              "title": "Backlinks for Glaedril's Emerald of Eternity Dream"
             }
           },
           {
@@ -907,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session 34.md",
+                "file": "Glaedril's Emerald of Eternity Dream.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -935,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 34"
+              "title": "Graph of Glaedril's Emerald of Eternity Dream"
             }
           }
         ]
@@ -951,20 +303,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 34.md",
+                "file": "Glaedril's Emerald of Eternity Dream.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 34"
+              "title": "Outline of Glaedril's Emerald of Eternity Dream"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 368,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -979,34 +332,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "79ced9d5156a896f",
+  "active": "3583aa441a6c24bf",
   "lastOpenFiles": [
-    "Session 34.md",
     "Session 33.md",
+    "Session 34.md",
+    "Glaedril's Emerald of Eternity Dream.md",
+    "Session Notes/Season 2/Season 2.md",
+    "Home.md",
+    "Session Notes/Season 2/Session 30.md",
+    "Bel's Visions.md",
+    "Session Notes/Season 2/Session 17.md",
+    "Yartar.md",
+    "Session Notes/Season 2/The Duck One-Shot.md",
+    "Emerald Dream.md",
+    "Zorrithar.md",
+    "Zyrian.md",
+    "Yatar.md",
     "Xera.md",
+    "Alahar Khaumfros.md",
+    "Magnus the All-Seeing.md",
+    "Watcher's in the Dark.md",
     "Sharp.md",
     "Flekersk.md",
     "Eye of Eternity.md",
-    "Session Notes/Season 2/Season 2.md",
-    "Home.md",
     "Session 32.md",
     "Averniss.md",
     "Baba Yaga.md",
     "Candlekeep.md",
     "Bel's One-Shot.md",
-    "Session Notes/Season 2/The Duck One-Shot.md",
-    "Bel's Visions.md",
-    "Bane.md",
-    "Session Notes/Season 2/Session 27.md",
-    "Tablets of Fate.md",
-    "Another Vision.md",
-    "Bloodstone.md",
-    "Zyrian.md",
-    "Soul Cage.md",
-    "Shaadiry.md",
-    "Session Notes/Season 2/Session 30.md",
-    "Glaedril's Fish Vision.md",
-    "Glaedril's second Fish Vision.md",
     "assets/Pasted image 20250223144931.png",
     "assets/Pasted image 20250223144855.png",
     "assets/Pasted image 20250223144717.png",

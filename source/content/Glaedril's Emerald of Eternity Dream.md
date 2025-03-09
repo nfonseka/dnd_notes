@@ -1,0 +1,19 @@
+---
+tags:
+  - Vision
+---
+- See also [[Emerald of Eternity]]
+- ![[Emerald Dream]]
+	- Feywild is a sister of the material plane that has its own soul
+- [[Glaedril]] dreams of a breeze and is in a Glade
+- [[Glaedril]]'s card changes into the lovers and asks if you want to pull your friends into this dream - she does
+- There is a cat that looks strangely familiar 
+- There is a tree that look a [[White Heart Tree]] 
+	- Massive tree with moonlight but no moon
+	- The tree is emitting the moonlight
+	- Spreading from the roots there is a void that is infecting and burrowing into the tree
+	- The parts where the shadow
+	- The tree has changed itself recently after the tendrils appear
+	- There is no reflection on the tree
+	- Moonlight fireflies
+	- 

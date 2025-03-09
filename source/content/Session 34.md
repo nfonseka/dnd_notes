@@ -7,3 +7,4 @@ tags:
 - You hear a screeching, like the squeeking dirt in the underdark but amplified
 - You don't really remember anything 
 - Cloakers are the flying things in the mine
+- [[Glaedril's Emerald of Eternity Dream]]
