@@ -8,4 +8,5 @@ tags:
 - You don't really remember anything 
 - Cloakers are the flying things in the mine
 - [[Glaedril's Emerald of Eternity Dream]]
-- It 
+- Triton has a vision
+	- Tr
