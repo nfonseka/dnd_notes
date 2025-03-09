@@ -67,8 +67,7 @@
               "title": "Glaedril's Emerald of Eternity Dream"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45372ccae8128936",
@@ -95,13 +94,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glaedril's Emerald of Eternity Dream.md",
+                "file": "The Wild Hunt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Glaedril's Emerald of Eternity Dream"
+              "title": "The Wild Hunt"
             }
           },
           {
@@ -125,17 +124,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 34.md",
+                "file": "Glaedril's Emerald of Eternity Dream.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 34"
+              "title": "Glaedril's Emerald of Eternity Dream"
+            }
+          },
+          {
+            "id": "62d9b2863a8e84c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glaedril's Emerald of Eternity Dream.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Glaedril's Emerald of Eternity Dream"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 34",
+                "query": "Wild Hunt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 34.md",
+                "file": "Glaedril's Emerald of Eternity Dream.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +249,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 34"
+              "title": "Backlinks for Glaedril's Emerald of Eternity Dream"
             }
           },
           {
@@ -304,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session 34.md",
+                "file": "Glaedril's Emerald of Eternity Dream.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -332,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 34"
+              "title": "Graph of Glaedril's Emerald of Eternity Dream"
             }
           }
         ]
@@ -348,13 +362,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 34.md",
+                "file": "Glaedril's Emerald of Eternity Dream.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 34"
+              "title": "Outline of Glaedril's Emerald of Eternity Dream"
             }
           }
         ]
@@ -377,17 +391,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6462777c09546b95",
+  "active": "62d9b2863a8e84c1",
   "lastOpenFiles": [
-    "Session 33.md",
-    "Session 32.md",
-    "Emerald Dream.md",
-    "Bel's One-Shot.md",
-    "Session Notes/Season 2/Session 31.md",
+    "Cerunnos.md",
+    "The Wild Hunt.md",
+    "Hounds of the Hunt.md",
     "Glaedril's Emerald of Eternity Dream.md",
-    "Emerald of Eternity.md",
+    "Cerrunos.md",
     "Session 34.md",
+    "Bel's One-Shot.md",
+    "Session 32.md",
     "Session Notes/Season 2/Session 27.md",
+    "Session 33.md",
+    "Shar.md",
+    "Emerald Dream.md",
+    "Session Notes/Season 2/Session 31.md",
+    "Emerald of Eternity.md",
     "Session Notes/Season 2/Season 2.md",
     "Home.md",
     "Session Notes/Season 2/Session 30.md",
@@ -400,11 +419,6 @@
     "Yatar.md",
     "Xera.md",
     "Alahar Khaumfros.md",
-    "Magnus the All-Seeing.md",
-    "Watcher's in the Dark.md",
-    "Sharp.md",
-    "Flekersk.md",
-    "Eye of Eternity.md",
     "assets/Pasted image 20250223144931.png",
     "assets/Pasted image 20250223144855.png",
     "assets/Pasted image 20250223144717.png",
