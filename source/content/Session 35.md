@@ -49,4 +49,64 @@ tags:
 		- and then a sillhouette of remi
 	- "Why not"
 		- "Because you asked to forget" in Shars voice
-		- 
+	- Worm devours the worm and it rampages the village
+		- Rani takes remi and runs and remi becomes paralysed in fear and is sprinting down
+		- The both of us stop after running for what feels like an eternity and Rani puts remi down and simply stares ahead of this tunnel. maybe 10 feet high
+		- She's panting and she is staring ahead
+		- She placed remi on the ground and remi looks back at Rani
+		- Remi sees in Rani's eyes, fear, pain and hatred when looking at remi <- She looks are Remi and goes and faces the tunnel ahead and she says "Lets keep moving"
+		- Remi follows robotically
+		- We come to a larger chamber, there are 2 paths ahead and as we come to this split
+			- She looks at the tunnels and is not sure where to go
+			- Remi hears screaming from the tunnel from the right
+			- Shriek of fear from the tunnel and footsteps from the tunnel
+			- Rani then runs down the other tunnel
+			- They screaming is then running behind us
+			- Multiple people running behind us
+			- We reach the end of the tunnel and it opens up to what seems like ruins of a village, dark except for the [[Faerzress]] 
+			- Rani pulls us into one of the ruined houses and puts remi in one of the bedframes and then we here the footsteps growing louder
+			- A figure comes into view and we see a green flame, a similar green flame into the temple and envelops this person and they drop and you see they have horns
+			- See footsteps of walking into the cavern; walking behind the tiefling; the pursuer is wearing black armor <- not [[Zorrithar]]. Warped armour; not bane
+			- Another person enters the room and there is a snake tail; it looks a lot like [[Cronox]]
+			- The 2 pursuers walk up to this tiefling, a hand grabs them by the back of their shirt. The warped metal armor is the [[Emerald of Eternity]]
+			- [[Lucille Silverhand]] and speaks in [[Infernal]] and sees they combust the tiefling and remi can smell the burning caustic flesh
+			- The green flame turns red, **crimson** and goes out
+			- The tiefling is dead and says in common and says "Not strong enough", "We keep looking"
+			- The memory glitches and lucille turns toward remi and walks toward remi
+			- Lucille reaches toward remi but the card bursts with magic, blinding white light and 
+		- [[Baba Yaga]] is by a pool of blood
+			- Three of Charisma -> Seven of Wisdom
+				- Anglerfish card
+			- She does not know what these cards are or where they came from but she asked them in a way
+			- She asked for a question
+			- They are cards of prophecy, of glimpses of the truth. I don't beleive they are misleading but they are pointed
+			- She reached to powers that have been lost to time and lost to memory, she asked to see if she would get an answer
+			- It reverberates throughout the room "How do I kill Shar"
+			- It is a holy site, on the sarcophagi are carvings of angels and there is a well of blood magic with power beyond comprehension
+		- Plan is to infiltrate the [[Penniless Merchants]] and to obtain their blood to create a key
+			- We only need a drop and we only need it at the masquerade of the lords
+			- There are masks
+			- In the hall there is an antimagic field
+		- Gather information, 
+		- We can gain influence
+			- "Melee" -> Money or a security position
+			- "Wizards Duel" -> 1 on 1 duel, spells are allowed; magic items are allowed
+				- The winner can have a glimpse at the inner workings of the spire of eternity 
+			- Side Competitions
+				- Good (k)night's Joust
+					- You need to bring your own mount but there are restrictions
+						- You can joust on mirmir
+				- Cooking Competitions 
+					- A lot of eyes and mouths
+				- Boy Kissing Competitions
+			- Archanists Fare
+				- ad
+			- Artificer's Fare
+				- New inventions of [[Yatar]] 
+				- We can buy an airship
+			- Artisans
+			- Blacksmisths
+			- Armorsmiths
+			- Artists fair
+			- Animal Fair
+			- 
