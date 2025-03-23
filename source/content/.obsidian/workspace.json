@@ -256,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "black ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,8 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351,
-    "collapsed": true
+    "width": 351
   },
   "right": {
     "id": "db04c58c563903d8",
@@ -471,6 +470,7 @@
   "lastOpenFiles": [
     "Session 33.md",
     "Session 35.md",
+    "Emerald of Eternity.md",
     "Remi.md",
     "Geas.md",
     "Seldarine.md",
@@ -488,7 +488,6 @@
     "Boot Leg.md",
     "Emerald Dream.md",
     "Triton also has an.md",
-    "Emerald of Eternity.md",
     "Cerunnos.md",
     "The Wild Hunt.md",
     "Hounds of the Hunt.md",
