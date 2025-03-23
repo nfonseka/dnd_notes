@@ -18,3 +18,35 @@ tags:
 - [[Steve Stiamh]]'s Scouting of the Pit
 	- One of the gang leaders is a fallen 
 	- [[Samael]] 
+	- Leader of [[Lionshield Coster]] is a [[Drow]], [[Machaes Markov]]
+		- Weird because they don't seperate from drow society
+		- Seperated or Excumincado
+		- [[Drow]] that leave their society, are known as pariah
+			- Drow are universal
+
+- [[Rani]] beleives that she saw devils in the [[Underdark]], very close to [[Yartar]] 
+	- [[Rani]] was running from someone in the [[Underdark]], she hid and she saw the thing screaming. The pursuers set them on fire. A fire that was similar to the [[Night of the Witchfire]] - Witchfire
+	- Rani mentioned burning caustic flesh - potentially using tiefling blood
+- [[Rosette]] is a blood mage
+	- Fuelled by souls of the living
+	- People desperate and power hungry decide to take the shortcut to power, sacrifice 
+	- [[Rosette]]'s explains that bloodstones trap souls but not like [[Soul Cage]]. They only retain their full sentience for a moment unless their super powerful
+	- There might be a [[Bloodstone]] with Varis in it.
+
+- Magic that they don't know
+	- The options are [[Divine]]
+	- A new school or magic
+	- or Blood Magic
+
+- Remi gets holy water sprayed on him and everything is pitch black
+	- Remi can feel movement and hears a voice speaking from behind you, bouncing around the space. In remis mind and in the space
+	- You can't tell if shes right behind or far away
+	- Soft spoken voice but a voice that is disconcerting
+		- A voice that remi should not be talking to
+	- Are you sure you want to do this
+		- The siilhouette of what looks like your mather
+		- then a siilhouette of what looks like remis father
+		- and then a sillhouette of remi
+	- "Why not"
+		- "Because you asked to forget" in Shars voice
+		- 
