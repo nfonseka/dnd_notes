@@ -35,6 +35,5 @@ tags:
 	- The ground begins to shake and the scratching noise stop and the screaching starts to grow louder
 - At this point the aspect looks at [[Remi]] 
 - Maximum volume screeching
-- Remi looking at the aspect of fear, remi for a brief moment, remi sees someome else; a silhouette of an adult ratfolk
+- Remi looking at the aspect of fear, remi for a brief moment, remi sees someome else; a silhouette of his father
 - We all hear the word run
-- 
