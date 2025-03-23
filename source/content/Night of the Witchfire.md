@@ -6,5 +6,5 @@ aliases:
 ---
 - Someone stole from the [[Penniless Merchants]]
 - Killed the dragonborn with oil lungs from the inside out
-- Declared that every person living in yatar had to work with the [[Triumvirate]] or leave
+- Declared that every person living in yatar had to work with the [[Triumvirate]] or leave 
 - 
