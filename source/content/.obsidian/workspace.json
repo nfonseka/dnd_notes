@@ -6,133 +6,46 @@
       {
         "id": "e1b8733140aafc07",
         "type": "tabs",
+        "dimension": 44.02985074626866,
         "children": [
           {
-            "id": "ab83349b4172f66d",
+            "id": "16e215371e6d2602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 33.md",
+                "file": "Session Notes/Season 2/Season 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 33"
+              "title": "Season 2"
             }
           },
           {
-            "id": "4b162521fb4134d2",
+            "id": "b1fc642b215db03a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 33.md",
+                "file": "Session 36.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 33"
-            }
-          },
-          {
-            "id": "9d534f0daecfc85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 31.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 31"
-            }
-          },
-          {
-            "id": "3583aa441a6c24bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glaedril's Emerald of Eternity Dream.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Glaedril's Emerald of Eternity Dream"
+              "title": "Session 36"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45372ccae8128936",
         "type": "tabs",
+        "dimension": 55.970149253731336,
         "children": [
-          {
-            "id": "1e5584d49eda86d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 27"
-            }
-          },
-          {
-            "id": "79ced9d5156a896f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Wild Hunt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Wild Hunt"
-            }
-          },
-          {
-            "id": "d2315b037ace3193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 32.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 32"
-            }
-          },
-          {
-            "id": "6462777c09546b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glaedril's Emerald of Eternity Dream.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Glaedril's Emerald of Eternity Dream"
-            }
-          },
           {
             "id": "62d9b2863a8e84c1",
             "type": "leaf",
@@ -147,84 +60,8 @@
               "icon": "lucide-file",
               "title": "Session 35"
             }
-          },
-          {
-            "id": "1bfe06844a6c0c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Remi"
-            }
-          },
-          {
-            "id": "8b23280891afbd11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Geas"
-            }
-          },
-          {
-            "id": "826692ab072b7a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seldarine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Seldarine"
-            }
-          },
-          {
-            "id": "4b0418047046fe7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lolth.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lolth"
-            }
-          },
-          {
-            "id": "aeceff6f6ab7f0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samael.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Samael"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "black ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 351,
+    "collapsed": true
   },
   "right": {
     "id": "db04c58c563903d8",
@@ -466,34 +304,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "62d9b2863a8e84c1",
+  "active": "b1fc642b215db03a",
   "lastOpenFiles": [
-    "Session 33.md",
     "Session 35.md",
-    "Emerald of Eternity.md",
-    "Remi.md",
-    "Geas.md",
+    "Session 36.md",
+    "Session Notes/Season 2/Season 2.md",
+    "Session 33.md",
+    "Session Notes/Season 2/Session 31.md",
+    "Glaedril's Emerald of Eternity Dream.md",
+    "Samael.md",
+    "Lolth.md",
     "Seldarine.md",
+    "Geas.md",
+    "Remi.md",
+    "Session 32.md",
+    "The Wild Hunt.md",
+    "Session Notes/Season 2/Session 27.md",
+    "Emerald of Eternity.md",
     "Bel's One-Shot.md",
     "Night of the Witchfire.md",
     "Lionshield Coster.md",
     "Drow.md",
-    "Lolth.md",
-    "Samael.md",
     "Aasimar.md",
     "Rosette.md",
-    "Glaedril's Emerald of Eternity Dream.md",
     "Session 34.md",
     "Boris.md",
     "Boot Leg.md",
     "Emerald Dream.md",
     "Triton also has an.md",
-    "Cerunnos.md",
-    "The Wild Hunt.md",
-    "Hounds of the Hunt.md",
-    "Cerrunos.md",
-    "Session 32.md",
-    "Session Notes/Season 2/Session 27.md",
     "assets/Pasted image 20250223144931.png",
     "assets/Pasted image 20250223144855.png",
     "assets/Pasted image 20250223144717.png",
