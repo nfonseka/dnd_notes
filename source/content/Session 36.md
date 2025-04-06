@@ -14,5 +14,6 @@ tags:
 - [[Xera]] asks [[Rosette]] for the map of [[The Pit]]
 
 - At the markets
+- Master Chef Tarkiri is sussing out green fish
 - 
 
