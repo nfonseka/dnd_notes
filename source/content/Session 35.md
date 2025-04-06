@@ -89,8 +89,8 @@ tags:
 			- In the hall there is an antimagic field
 		- Gather information, 
 		- We can gain influence
-			- "Melee" -> Money or a security position
-			- "Wizards Duel" -> 1 on 1 duel, spells are allowed; magic items are allowed
+			- "Melee" -> Money or a security position -> 50K gold
+			- "Wizards Duel" -> 1 on 1 duel, spells are allowed; magic items are allowed -> 50K gold
 				- The winner can have a glimpse at the inner workings of the spire of eternity 
 			- Side Competitions
 				- Good (k)night's Joust
@@ -109,4 +109,8 @@ tags:
 			- Armorsmiths
 			- Artists fair
 			- Animal Fair
-			- 
+			- Farmer's Markets
+		- Other oportunities to make gold 
+			- Find work in [[Yartar]]
+				- slightly less regulated
+		- Work can also be found in the pit
