@@ -2,7 +2,7 @@
 tags:
   - backend
 ---
-```ad-summary
+w```ad-summary
 The party travels to the underdark where the [[Faerzress]] interferes with their teleportation spell. They find themselves in a strange place with massive beautiful flowers and no tracks. They sense a lot of aberrations, fiends, elementals, and undead within a mile. They encounter haloumi sand and burrowing creatures that speak [[Undercommon]]. They meet [[Dank Duckleberry|Dank]] who has ascended and [[Oghma]] has descended. They learn that all major deities have been cast down but not dead. They are supposed to separate the evils from each other and lift the veil of shadow and loss. They find a temple where they face a demon or devil and the eyes of the temple light up after 3 beams of green. They find a stairwell and just below the surface of the acid lake is the footpath.
 ```
 
