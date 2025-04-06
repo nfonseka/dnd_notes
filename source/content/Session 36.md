@@ -12,5 +12,7 @@ tags:
 
 - Pocket watches
 - [[Xera]] asks [[Rosette]] for the map of [[The Pit]]
+
+- At the markets
 - 
 
