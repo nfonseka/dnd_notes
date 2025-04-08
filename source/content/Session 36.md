@@ -17,5 +17,5 @@ tags:
 - Master Chef Tarkiri is sussing out green fish
 - [[Cerrunos]] has a crush on [[Selune]] but [[Selune]] didn't really like him
 	- [[Selune]] would go to [[Cerrunos]] if lycanthropes become too powerful; she does not like [[Selune]] 
-	- [[Selune]]'s siblings are not known and that section has been removed from the book
+	- [[Selune]]'s siblings are not known and that section has been removed from the book, Selune hsa a sister but it was obscured in the book
 	- 
