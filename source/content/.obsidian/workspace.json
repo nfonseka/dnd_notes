@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Season 2/Season 2.md",
+                "file": "Session 37.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Season 2"
+              "title": "Session 37"
             }
           },
           {
@@ -68,8 +68,7 @@
               "title": "Session 36"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45372ccae8128936",
@@ -123,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Locth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -333,11 +332,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bbb250f5761ca6b2",
+  "active": "16e215371e6d2602",
   "lastOpenFiles": [
-    "Session 35.md",
-    "Session 37.md",
     "Session Notes/Season 2/Season 2.md",
+    "Triton One-Shot.md",
+    "The Challengers.md",
+    "Session 37.md",
+    "assets/Pasted image 20250413150028.png",
+    "assets/Pasted image 20250413150021.png",
+    "Session 35.md",
     "Archive/Luskans.md",
     "Session 36.md",
     "Session 33.md",
@@ -359,8 +362,6 @@
     "Aasimar.md",
     "Rosette.md",
     "Session 34.md",
-    "Boris.md",
-    "Boot Leg.md",
     "assets/Pasted image 20250223144931.png",
     "assets/Pasted image 20250223144855.png",
     "assets/Pasted image 20250223144717.png",
@@ -369,8 +370,6 @@
     "assets/Pasted image 20250223143856.png",
     "assets/Pasted image 20250223143846.png",
     "assets/Pasted image 20250223143442.png",
-    "assets/Pasted image 20250223140724.png",
-    "assets/Pasted image 20250223140610.png",
     "_index.html",
     "output/_index.html",
     "output/attachment",
