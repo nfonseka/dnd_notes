@@ -30,3 +30,11 @@ tags:
 - Remi sees the eye and remi's card resonates 
 	- She is in this city
 - Tell no-one what you saw here, for now you have seen it, It has now seen you. It will consume this world
+
+- Mirror on the ooze
+	- The purple becomes darker and shimmers and becomes translucent and a shape forms
+	- Something rizes out of the ooze and it forms into
+	- ![[Pasted image 20250413150028.png]] 
+- The word that Zyrian said was not "Drar'Innochar". 
+
+[[Triton]] discerns that forgetting it was not the first choice. Banishing it was not the first choice. Even blood magic superweapon did not kill it but Shar could block ur memory
