@@ -14,3 +14,19 @@ tags:
 	- He spoke one word
 	- Eyes of a ghost
 	- Sister was too far away but hatered
+
+	- They are [[Luskans]] 
+		- Only one man was alive <- 
+		- They set sail to avenge my mother and only Darius returned
+		- The evil shark might stay around
+		- "There is no peace beyond death here"
+		- When [[Adabra Gwynn]] was describing [[Zyrian]], some of 
+
+- Speaking to the dead [[Darius Blackheart]]
+	- What happened to you -> "Drar'Innochar" in Deep Speech
+- Who uttered those words
+	- Not uttered, felt. It's name (Is the sharks name)
+- The eye is the shark
+- Remi sees the eye and remi's card resonates 
+	- She is in this city
+- Tell no-one what you saw here, for now you have seen it, It has now seen you. It will consume this world
