@@ -6,7 +6,7 @@ tags:
 >- 
 
 - Captain Beckett Blacktide
-	- Coin of a reasearcher to study deep sea magic
+	- Coin of a **researcher** to study deep sea magic
 	- Three years ago my mother never returned
 	- One Man, a single soul of a doomed crew was left alive
 	- Went mad
@@ -37,4 +37,4 @@ tags:
 	- ![[Pasted image 20250413150028.png]] 
 - The word that Zyrian said was not "Drar'Innochar". 
 
-[[Triton]] discerns that forgetting it was not the first choice. Banishing it was not the first choice. Even blood magic superweapon did not kill it but Shar could block ur memory
+[[Triton]] discerns that forgetting it was not the first choice. Banishing it was not the first choice. Even blood magic superweapon did not kill it but Shar could block ur memory and that was enough to stop it from corrupting 
