@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Locth",
+                "query": "3 years ago",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -332,7 +332,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "16e215371e6d2602",
+  "active": "d9eadf37bd3dedaa",
   "lastOpenFiles": [
     "Session Notes/Season 2/Season 2.md",
     "Triton One-Shot.md",
