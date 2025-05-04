@@ -14,13 +14,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 37.md",
+                "file": "Session Notes/Season 2/Season 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 37"
+              "title": "Season 2"
+            }
+          },
+          {
+            "id": "a451383d7757ab92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 38.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 38"
+            }
+          },
+          {
+            "id": "68601e6a0b6425d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 34.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 34"
             }
           },
           {
@@ -68,7 +98,8 @@
               "title": "Session 36"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45372ccae8128936",
@@ -122,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3 years ago",
+                "query": "session 34",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -332,18 +363,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d9eadf37bd3dedaa",
+  "active": "a451383d7757ab92",
   "lastOpenFiles": [
+    "Session 38.md",
     "Session Notes/Season 2/Season 2.md",
+    "Session 33.md",
+    "Session 37.md",
+    "Session 36.md",
+    "Archive/Luskans.md",
+    "Session 35.md",
+    "Session 34.md",
     "Triton One-Shot.md",
     "The Challengers.md",
-    "Session 37.md",
     "assets/Pasted image 20250413150028.png",
     "assets/Pasted image 20250413150021.png",
-    "Session 35.md",
-    "Archive/Luskans.md",
-    "Session 36.md",
-    "Session 33.md",
     "Session Notes/Season 2/Session 31.md",
     "Glaedril's Emerald of Eternity Dream.md",
     "Samael.md",
@@ -360,8 +393,6 @@
     "Lionshield Coster.md",
     "Drow.md",
     "Aasimar.md",
-    "Rosette.md",
-    "Session 34.md",
     "assets/Pasted image 20250223144931.png",
     "assets/Pasted image 20250223144855.png",
     "assets/Pasted image 20250223144717.png",
