@@ -38,6 +38,7 @@ Year: 1358
 [[Session 35]]
 [[Session 36]]
 [[Session 37]]
+[[Session 38]]
 ## Characters
 
 ## Players
