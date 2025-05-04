@@ -32,4 +32,7 @@ Library
 	- COULD BE A UNIONIST
 	- Fan of food and cooking
 		- Comes with his 2IC, [[Polly Deepockets]]
-		- 
+- Khazmira
+	- Mural of mount [[Waterdeep]] where the celestial staircase appeared on the night of a full moon
+		- It leads to celune's palace
+			- 
