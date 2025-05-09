@@ -1,7 +1,10 @@
 ---
 tags:
   - Vision
+aliases:
+  - Emerald Nightmare
 ---
+
 Soul of the Feywild
 - The emerald dream exists as an extension of the souls of all those descended from the feywild
 - Elves were not born with lives as long as they have now
@@ -10,3 +13,6 @@ Soul of the Feywild
 - The emerald dream prolongs and sustains ones soul
 - Most elves come don't come to the emerald dream
 - [[Triton]] also has an [[Emerald Dream]] 
+
+- One can reduce ac
+- AC
