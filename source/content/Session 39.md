@@ -1,0 +1,17 @@
+---
+tags:
+  - Session
+---
+- Looking into the hall, there is shifting walls with murals showing the future(?) it is illusion/divination magic.
+	- Something that would be carved
+- Corridor to the backroom
+	- She is being genuine 
+- Kazimira
+	- "Fate that"
+	- "everpresenting, everlasting and eluding our every attempt at alluding its true nature"
+	- Birth to final dying breath, ... destinity pre
+	- the doom is for everyone is to be mere passengeres
+	- we insist we choose the path we choses even though we did not build the roads
+	- When we see what we were not meant to [[Sneeb]] 
+	- We do not like how it ends 
+- We are sent to Triton's [[Emerald Dream|Emerald Nightmare]] 
