@@ -14,4 +14,7 @@ tags:
 	- we insist we choose the path we choses even though we did not build the roads
 	- When we see what we were not meant to [[Sneeb]] 
 	- We do not like how it ends 
-- We are sent to Triton's [[Emerald Dream|Emerald Nightmare]] 
+- We are sent to Jaun(??????)'s [[Emerald Dream|Emerald Nightmare]] 
+	- Means jaun is fey?  / wasn't a duck pre duck
+	- Kazimira is [[Morathi]] 
+	- 

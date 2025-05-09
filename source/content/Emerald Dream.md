@@ -14,5 +14,5 @@ Soul of the Feywild
 - Most elves come don't come to the emerald dream
 - [[Triton]] also has an [[Emerald Dream]] 
 
-- One can reduce ac
-- AC
+- [[Jaun]] comes back like glass and blood
+- [[Morathi]]
