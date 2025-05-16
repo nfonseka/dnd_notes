@@ -11,7 +11,11 @@ Gems potentially made by [[Triton]] as weapons.
 
 ^ed6cef
 
-Gems:
-- [[Onyx of Oblivion]]
-- [[Ruby of Reflection]]
-- [[Emerald of Eternity]]
+There are 7 gems from the diadem:
+- [[Onyx of Oblivion]] -> Black
+- [[Ruby of Reflection]] -> Red
+- [[Emerald of Eternity]] -> Green
+- [[Diamond of Dreams]] -> Clear
+- [[Sapphire of the Sea]] -> Blue
+- unknown amber gem
+- unknown amethyst gem

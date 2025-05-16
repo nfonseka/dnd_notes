@@ -14,7 +14,10 @@ tags:
 	- Triton's dreams are protected??
 
 - [[Morathi]] is [[Zyrian]]'s daughter
-- 7 locks, 7 keys, 7 eyes which do not see, 7 wardens, 7 banished, 7 shackled, chained in cells, 7 prisoners break free, unleashing all of hell
+
+> [! Prophecy ]
+> - 7 locks, 7 keys, 7 eyes which do not see, 7 wardens, 7 banished, 7 shackled, chained in cells, 7 prisoners break free, unleashing all of hell
+
 - Are we the prisoner 
 - [[The celestial stairway]]
 - There was a psychic intrusion
@@ -48,4 +51,18 @@ tags:
 				- She escaped wounded but alive
 			- [[Zyrian]] and the [[Queen of Darkness]] conspired together to trap the [[Princess of Shadowglass]] 
 				- [[Zyrian]] learned blood magic to trap the [[Princess of Shadowglass]] 
+			- After the [[Princess of Shadowglass]] was locked away, [[Zyrian]] kept studying magic to change fate
+			- [[Zyrian]] uncovers another prophecy 
+				- We believe [[Talos]] and the [[Princess of Shadowglass]] were one of the prisoners in the prophecy
+			- Something is continuing to erase her memories 
+				- She writes stuff down in her book and goes
 			- Our understanding is that fate cannot be changed 
+			- We think [[Zyrian]] is now one of the prisoners 
+			- Tendrils Cast through [[Bhaal]] was a ritual to kill all the assassins
+			- We think the [[Onyx of Oblivion]] has been used to erase memories and a bunch of existence
+				- Gods of Nightmare
+			- On order to wield her would require magic that is really fucking strong
+				- Sphere is not the normal form the [[Queen of Darkness]]?
+				- The [[Princess of Shadowglass]] may have turned the [[Queen of Darkness]] into a sphere
+			- She cannot detect when it can be tampered with, she does not know the state of the book
+			- 

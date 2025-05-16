@@ -10,7 +10,7 @@ allies:
 - Home of the Wasians
 - Run by Guilds
 - Canonically is Wasian
-- Jewel of the Desorate Valley
+- Jewel of the Dessarine Valley
 - Public displays of religion are banned
 	- Only one thing that ppl worship - that is worship
 ### Mining
