@@ -18,8 +18,9 @@ tags:
 	- Moonlight fireflies
 	- 7 locks, 7 keys, 7 lives, 7 deaths, 7 bargains made, 7 holy debts still left to collect
 - violent card humming
-- There is a beast
+- There is an aspect beast
 	- Apex predator that is in chains
+- [[Glaedril]] wanted the aspect of the hunter to
 - [[Glaedril]] was created through the fusion of tabaxi and elf
 - [[Cerrunos]]  drives a spear through [[Glaedril]] 
 - [[Glaedril]]'s misfire causes a worm to eat her brethren and cerrunos sicks [[Hounds of the Hunt]] onto [[Glaedril]] and then cerrunos leaves her to die as he plunges a spear into [[Glaedril]].

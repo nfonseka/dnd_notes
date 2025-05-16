@@ -35,4 +35,3 @@ Library
 - Khazmira
 	- Mural of mount [[Waterdeep]] where the celestial staircase appeared on the night of a full moon
 		- It leads to celune's palace
-			- 

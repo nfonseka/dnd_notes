@@ -2,9 +2,6 @@
 tags:
   - Session
 ---
->[!Recap] 
->- 
-
 - Captain Beckett Blacktide
 	- Coin of a **researcher** to study deep sea magic
 	- Three years ago my mother never returned

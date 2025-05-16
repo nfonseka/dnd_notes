@@ -84,6 +84,7 @@ tags:
 			- It reverberates throughout the room "How do I kill Shar"
 			- It is a holy site, on the sarcophagi are carvings of angels and there is a well of blood magic with power beyond comprehension
 		- Plan is to infiltrate the [[Penniless Merchants]] and to obtain their blood to create a key
+			- Rani suspects they are up to something bad
 			- We only need a drop and we only need it at the masquerade of the lords
 			- There are masks
 			- In the hall there is an antimagic field
