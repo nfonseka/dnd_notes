@@ -46,6 +46,7 @@
     "Language of": "multitext",
     "Language": "multitext",
     "Characters": "multitext",
-    "Locations": "multitext"
+    "Locations": "multitext",
+    "Siblings": "multitext"
   }
 }
