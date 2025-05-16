@@ -14,6 +14,7 @@ tags:
 	- Triton's dreams are protected??
 
 - [[Morathi]] is [[Zyrian]]'s daughter
+- [[The Prophecies]]
 
 > [! Prophecy ]
 > - 7 locks, 7 keys, 7 eyes which do not see, 7 wardens, 7 banished, 7 shackled, chained in cells, 7 prisoners break free, unleashing all of hell
@@ -34,7 +35,7 @@ tags:
 	- God of Seeing <- [[Oghma]] 
 	- God of Anger <- Talos
 	- God of Dreams <- [[Sehanine Moonbow]]
-	- God of Loss <-
+	- God of Loss, Nightmare, Tragedy, Forgetting
 	- There is a familiar warping for a bunch of the gods
 	- Obfuscated a long time ago
 	- Something is trying to bash its way into Jaun's nightmare
@@ -65,4 +66,7 @@ tags:
 				- Sphere is not the normal form the [[Queen of Darkness]]?
 				- The [[Princess of Shadowglass]] may have turned the [[Queen of Darkness]] into a sphere
 			- She cannot detect when it can be tampered with, she does not know the state of the book
-			- 
+			- The [[Queen of Darkness]] has been in the book for 700 years, the [[Morathi]] does not remember anything from 300 years ago
+			- Remi remembers
+			- Triton's rage is from millenia of war
+			- The Dread is from triton made a decision that he could not come back from

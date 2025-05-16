@@ -8,3 +8,4 @@
 - [[Black Duck]]
 - Anu Haya Elohim (We shall become gods)
 - "The truth"
+- [[Mystra]], [[Mystra's Death]]
