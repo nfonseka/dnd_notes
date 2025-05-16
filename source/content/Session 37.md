@@ -3,8 +3,8 @@ tags:
   - Session
 ---
 - Captain Beckett Blacktide
-	- Coin of a **researcher** ([[Lucille Silverhand]]) to study deep sea magic
-	- Three years ago my mother never returned
+	- Coin of a **researcher** ([[Morathi]]) to study deep sea magic
+	- Three months ago my mother never returned
 	- One Man, a single soul of a doomed crew was left alive
 	- Went mad
 	- When his father confronted the broken man, he 

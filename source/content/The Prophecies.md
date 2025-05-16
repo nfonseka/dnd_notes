@@ -12,15 +12,22 @@ In order:
 
 
 ## The Prisoners
-- [[Zyrian]]
-- [[Talos]]
+- Drar' Inochar -> [[Vraath'ax]]  - Free
+- [[Zyrian]] 
+- [[Talos]] - Free
 - [[Abathor]]
 - [[Glaedril]]'s Aspect of Fear and Beast
 - [[Princess of Shadowglass]]
-- [[Zorrithar]] 
-- Potentially
-	- [[Rhettekest]] 
+- [[Zorrithar]] - Free
 
+## Jailors
+- ...
+- [[Lightning Elemental]] 
+- shadows? shar? [[Lucille Silverhand]]?
+- [[Glaedril]]'s Aspect of the Hunter 
+- [[Trixie]] 
+- [[Rosette]] 
+- [[Vraath'ax]] 
 ## Deaths
 - [[Torm]] 
 - [[Bane]]

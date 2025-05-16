@@ -10,7 +10,7 @@ Captain of Neverwinter Guard
 - Is a celestials, elementals, fey, fiends or undead
 	- source: [[Forbiddance]] which she triggered
 - When she was stabbed a greenish, grey figure emerged
-	- Zorathar. turns into a black dragon and escapes
+- Zorathar. turns into a black dragon and escapes
 
 - Killed [[Rosette]]'s dad
 
