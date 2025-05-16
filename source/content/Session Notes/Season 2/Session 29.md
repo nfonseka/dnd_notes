@@ -6,8 +6,8 @@ Location: "[[Underdark]]"
 - Images in your head
 	- An image of the sun getting eclipsed and the sky turns completely dark
 	- The ground splits open - in the dark
-		- Open grassy field, there is movement and voices behind you. on the outskirts of a city
-		- Mountains either side of you but on a valley
+		- Open grassy field, there is movement and voices behind you. on the outskirts of a city <- [[Yartar]]
+		- Mountains either side of you but on a valley <- [[Dessarine Valley]]
 	- Sounds of laughter and screams
 		- Demented cackling
 	- Magma flows out of the ground
