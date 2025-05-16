@@ -7,4 +7,5 @@ aliases:
 - Spider goddess
 - Evil and deranged
 - Demands and sacrifices
-- Patron god of the drough
+- Patron god of the [[Drow]] 
+- [[Underdark]] 
