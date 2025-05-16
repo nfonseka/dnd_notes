@@ -19,12 +19,12 @@ Characters:
 - Scrivener's [[Tale]] by [[Zyrian]]
 	- [[Zyrian]] is a tiefling playright 
 	- A play written about an archfairy called the princess of shadowglass who suposedly was selfish and immoral. Archfairy are godlike fairy;s. She is locked in a mud room? with the queen of of darkness in the feydark. The queen of air and darkness is a gleaming black crystal over petrified wood. She does not seem to hve a physical form besides that. The princess of shadowglass is supposedly is cast as a role of the protagonist. The end is a monologue with bloody reprisal for anyone that wronged her.
-	- The queen of air an ddarkness has wronged her by exiled the princess to the mortal realm.
+	- The queen of air an darkness has wronged her by exiled the princess to the mortal realm.
 	- A date indicating the tear she was banished was the year 400 DR; 90 0 years ago
 	- The text from the play is being written on [[Bel]]'s arm
 	- bel gets magical protection
 - AC15
-- "The princess of shadowglass must die"
+- Mages sent after the book: "The princess of shadowglass must die"
 - The book slams shut and shadows wrap around it
 	- A voice of a woman: "well well well, " we have gotten ourselves into a predicament
 		- she is the princess of shadowglass
