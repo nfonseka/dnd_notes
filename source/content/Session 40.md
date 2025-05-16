@@ -12,7 +12,40 @@ tags:
 	- Jaun's body is pulled through the nightmare
 	- [[Forbiddance]] 
 	- Triton's dreams are protected??
-	- [[Morathi]] is [[Zyrian]]'s daughter
 
-- 7 Locks, 7 keys, 7 eyes which
-- 7 warderns, 7 banished, 7.. 7 prisoners 
+- [[Morathi]] is [[Zyrian]]'s daughter
+- 7 locks, 7 keys, 7 eyes which do not see, 7 wardens, 7 banished, 7 shackled, chained in cells, 7 prisoners break free, unleashing all of hell
+- Are we the prisoner 
+- [[The celestial stairway]]
+- There was a psychic intrusion
+- Remi and triton cant say "[[Shar]]"
+- [[Jaun]] tries to say Shar and [[Symeera]]/[[Liliana Silverhand]] appears
+	- They have to rewrite the prophecy
+- Massive Arm comes out of Jaun's pouch and it grabs [[Symeera]]
+	- The arm is covered in shark skin, like cauqiris but its cut and scars and bleeding purple ooze
+		- She is pulled into the card
+	- Time stop is breaking and her skin cracks and disintegrates before she is in the card
+	- She knows the cauqiris 
+	- Appears like she killed herself bc she is a devil
+	- [[Baba Yaga]]
+	- God of Seeing <- [[Oghma]] 
+	- God of Anger <- Talos
+	- God of Dreams <- [[Sehanine Moonbow]]
+	- God of Loss <-
+	- There is a familiar warping for a bunch of the gods
+	- Obfuscated a long time ago
+	- Something is trying to bash its way into Jaun's nightmare
+		- Fragments of jaun's nightmare 
+	- Re the [[Princess of Shadowglass]] 
+		- She discerned that her fate was never to hold throne, which is the seat of [[The Gloaming Courts]] that controls [[Feydark]] 
+		- So she left the [[Feydark]] and [[Feywild]] and met [[Zyrian]]
+			- They lived hapily for a couple hundred years
+		- She had a premonitions and they ascended [[The celestial stairway]] and they witnessed their fate
+			- They saw their future and what their destiny was written out to be
+			- They returned but the [[Princess of Shadowglass]] siting on the throne of the [[The Gloaming Courts]] surrounded by [[Devils]]
+			- [[Zyrian]] saw the same vision but saw that it would end all mortal life as we know it
+			- [[Zyrian]] seeing this tried to kill the [[Princess of Shadowglass]], and was not successful.
+				- She escaped wounded but alive
+			- [[Zyrian]] and the [[Queen of Darkness]] conspired together to trap the [[Princess of Shadowglass]] 
+				- [[Zyrian]] learned blood magic to trap the [[Princess of Shadowglass]] 
+			- Our understanding is that fate cannot be changed 
