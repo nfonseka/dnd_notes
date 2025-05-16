@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Session 35.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 35"
+            }
+          },
+          {
+            "id": "ae294c51960e3fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session 40.md",
                 "mode": "source",
                 "source": false,
@@ -23,18 +38,18 @@
             }
           },
           {
-            "id": "ae294c51960e3fb4",
+            "id": "87f784af79d6432d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another Vision.md",
+                "file": "Lathendar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Another Vision"
+              "title": "Lathendar"
             }
           },
           {
@@ -43,13 +58,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Prophecies.md",
+                "file": "Delilah Ashton.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Prophecies"
+              "title": "Delilah Ashton"
+            }
+          },
+          {
+            "id": "20d919daeb40027c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zyrian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Zyrian"
             }
           },
           {
@@ -103,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 37.md",
+                "file": "The Temple.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 37"
+              "title": "The Temple"
             }
           },
           {
@@ -238,42 +268,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 39.md",
+                "file": "Session 32.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 39"
+              "title": "Session 32"
             }
           },
           {
-            "id": "f5255d3fc1b6fadf",
+            "id": "915b30980b89d8f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vraath'ax.md",
+                "file": "The Prophecies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vraath'ax"
-            }
-          },
-          {
-            "id": "08d286a50ff44564",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Prophecies"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -305,7 +325,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hell",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -363,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 37.md",
+                "file": "The Prophecies.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -373,7 +393,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 37"
+              "title": "Backlinks for The Prophecies"
             }
           },
           {
@@ -382,12 +402,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 37.md",
+                "file": "The Prophecies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 37"
+              "title": "Outgoing links from The Prophecies"
             }
           },
           {
@@ -442,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session 37.md",
+                "file": "The Prophecies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -470,7 +490,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 37"
+              "title": "Graph of The Prophecies"
             }
           }
         ]
@@ -486,13 +506,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 37.md",
+                "file": "The Prophecies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 37"
+              "title": "Outline of The Prophecies"
             }
           }
         ]
@@ -514,34 +534,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "445980e51c02d35c",
+  "active": "915b30980b89d8f4",
   "lastOpenFiles": [
-    "Archive/Luskans.md",
-    "Session 37.md",
-    "Vraath'ax.md",
-    "Session Notes/Season 2/Session 29.md",
-    "Session 40.md",
-    "Another Vision.md",
-    "The Prophecies.md",
-    "Bel's One-Shot.md",
-    "Session 39.md",
-    "Glaedril's Fish Vision.md",
-    "Zorrithar.md",
-    "Zorathar's Father.md",
-    "Princess of Shadowglass.md",
-    "Mystra.md",
-    "Session Notes/Season 2/Session 13.md",
-    "Mystra's Death.md",
-    "The Prophecy.md",
-    "Tablets of Fate.md",
-    "Glaedril's Emerald of Eternity Dream.md",
-    "Onyx of Oblivion.md",
-    "The Gems.md",
-    "Liliana Silverhand.md",
-    "Masked Mage 2.md",
-    "Masked Mage.md",
     "Session 32.md",
-    "Yartar.md",
+    "The Prophecies.md",
+    "Session 35.md",
+    "Session 40.md",
+    "Drar'Innochar.md",
+    "Hooded Guy.md",
+    "Lathendar.md",
+    "Session Notes/Season 2/Session 13.md",
+    "The Severance between Holy Men and Women.md",
+    "Varis Firahel.md",
+    "Archive/Varis' Chambers.md",
+    "Another Vision.md",
+    "Session 39.md",
+    "Vraath'ax.md",
+    "Session Notes/Season 2/The Duck One-Shot.md",
+    "Delilah Ashton.md",
+    "Zyrian.md",
+    "Melekh Kharish.md",
+    "M'Vaser Mallardy Duckington.md",
+    "Yasha al-Damim.md",
+    "Elodim lashar.md",
+    "The Gem Prophecy.md",
+    "The Prophecy.md",
+    "Mystra.md",
+    "The Temple.md",
+    "Session 37.md",
     "assets/Pasted image 20250413150028.png",
     "assets/Pasted image 20250413150021.png",
     "assets/Pasted image 20250223144931.png",
