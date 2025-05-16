@@ -283,13 +283,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Prophecies.md",
+                "file": "The Gem Prophecy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Prophecies"
+              "title": "The Gem Prophecy"
+            }
+          },
+          {
+            "id": "4ec164417912d833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Princess of Shadowglass.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Princess of Shadowglass"
+            }
+          },
+          {
+            "id": "8bba5c7104d1c3f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bel's One-Shot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bel's One-Shot"
             }
           }
         ],
@@ -325,7 +355,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Holy War\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -383,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Prophecies.md",
+                "file": "The Gem Prophecy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -393,7 +423,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Prophecies"
+              "title": "Backlinks for The Gem Prophecy"
             }
           },
           {
@@ -402,12 +432,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Prophecies.md",
+                "file": "The Gem Prophecy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Prophecies"
+              "title": "Outgoing links from The Gem Prophecy"
             }
           },
           {
@@ -462,7 +492,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Prophecies.md",
+                "file": "The Gem Prophecy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -490,7 +520,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Prophecies"
+              "title": "Graph of The Gem Prophecy"
             }
           }
         ]
@@ -506,13 +536,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Prophecies.md",
+                "file": "The Gem Prophecy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Prophecies"
+              "title": "Outline of The Gem Prophecy"
             }
           }
         ]
@@ -536,10 +566,12 @@
   },
   "active": "915b30980b89d8f4",
   "lastOpenFiles": [
-    "Session 32.md",
     "The Prophecies.md",
-    "Session 35.md",
+    "Princess of Shadowglass.md",
+    "Bel's One-Shot.md",
     "Session 40.md",
+    "Session 32.md",
+    "Session 35.md",
     "Drar'Innochar.md",
     "Hooded Guy.md",
     "Lathendar.md",
@@ -560,8 +592,6 @@
     "The Gem Prophecy.md",
     "The Prophecy.md",
     "Mystra.md",
-    "The Temple.md",
-    "Session 37.md",
     "assets/Pasted image 20250413150028.png",
     "assets/Pasted image 20250413150021.png",
     "assets/Pasted image 20250223144931.png",
