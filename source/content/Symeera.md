@@ -5,3 +5,4 @@
 	- Smells of Lilac and Lavender
 - [[The Prophecy]]
 - Takes us to [[Symeera's Room]]
+- Is actually [[Liliana Silverhand]]

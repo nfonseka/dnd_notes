@@ -8,4 +8,4 @@ Parent:
   - "[[Zyrian]]"
 ---
 - Mother: [[Princess of Shadowglass]]
-- 
+- Fey, Looks like a dark elf
