@@ -17,3 +17,12 @@ tags:
 - We are sent to Jaun(??????)'s [[Emerald Dream|Emerald Nightmare]] 
 	- Means jaun is fey?  / wasn't a duck pre duck
 	- Kazimira is [[Morathi]] 
+
+- In Jaun's [[Emerald Dream|Emerald Nightmare]] 
+	- Its Jaun and Triton
+	- Jaun is turning blue
+	- Corpses of triton's soldiers
+	- Corpses of another species 
+		- They are warping and distorting
+		- Medium Sized
+		- Looks like [[Vraath'ax]]
