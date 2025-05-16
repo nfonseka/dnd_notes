@@ -7,7 +7,7 @@ Location: "[[Underdark]]"
 	- An image of the sun getting eclipsed and the sky turns completely dark
 	- The ground splits open - in the dark
 		- Open grassy field, there is movement and voices behind you. on the outskirts of a city <- [[Yartar]]
-		- Mountains either side of you but on a valley <- [[Dessarine Valley]]
+		- Mountains either side of you but on a valley <- [[Desser]]
 	- Sounds of laughter and screams
 		- Demented cackling
 	- Magma flows out of the ground
@@ -21,7 +21,7 @@ Location: "[[Underdark]]"
 			- Tendrils of blood running around it
 		- Nods at the first masked mage and a tendril shoots and wraps around your hand
 		- Other people moving towards you toward the chasms,
-		- The party is wrapped in tendrils
+		- The party is wrapped in tendrils walking towards the chasm
 			- Jaun then glaedril, martin on left
 			- Bel and Triton on the left
 	- Triton has a vision about the [[The Gems]]
@@ -48,4 +48,3 @@ Location: "[[Underdark]]"
 - They are construsts,
 - The emerald protecting it from  dispel magic
 - attacked by snake creatures, next time remember to hypnotic pattern them, they have low wisdom and intelligence and charisma.
-- 

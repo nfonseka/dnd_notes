@@ -23,37 +23,52 @@
             }
           },
           {
+            "id": "ae294c51960e3fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Another Vision.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Another Vision"
+            }
+          },
+          {
+            "id": "f71b68c51b400c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Prophecies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Prophecies"
+            }
+          },
+          {
             "id": "5fdc38d42363fc2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onyx of Oblivion.md",
+                "file": "Bel's One-Shot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Onyx of Oblivion"
+              "title": "Bel's One-Shot"
             }
           },
           {
             "id": "cd5298c57f3f497f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Gems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Gems"
-            }
-          },
-          {
-            "id": "fdc9dfbc7f76b1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,6 +80,51 @@
               },
               "icon": "lucide-file",
               "title": "Session 29"
+            }
+          },
+          {
+            "id": "fdc9dfbc7f76b1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 39.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 39"
+            }
+          },
+          {
+            "id": "445980e51c02d35c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 37.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 37"
+            }
+          },
+          {
+            "id": "299b4c63a6c20040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mystra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Mystra"
             }
           },
           {
@@ -212,7 +272,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,7 +305,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Hell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 40.md",
+                "file": "Session 37.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -312,7 +373,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 40"
+              "title": "Backlinks for Session 37"
             }
           },
           {
@@ -321,12 +382,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 40.md",
+                "file": "Session 37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 40"
+              "title": "Outgoing links from Session 37"
             }
           },
           {
@@ -381,7 +442,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Session 40.md",
+                "file": "Session 37.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -409,7 +470,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 40"
+              "title": "Graph of Session 37"
             }
           }
         ]
@@ -425,13 +486,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 40.md",
+                "file": "Session 37.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 40"
+              "title": "Outline of Session 37"
             }
           }
         ]
@@ -453,34 +514,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "73a2d81702e29600",
+  "active": "445980e51c02d35c",
   "lastOpenFiles": [
-    "Onyx of Oblivion.md",
-    "Session 40.md",
-    "Liliana Silverhand.md",
+    "Archive/Luskans.md",
+    "Session 37.md",
+    "Vraath'ax.md",
     "Session Notes/Season 2/Session 29.md",
+    "Session 40.md",
+    "Another Vision.md",
+    "The Prophecies.md",
+    "Bel's One-Shot.md",
+    "Session 39.md",
+    "Glaedril's Fish Vision.md",
+    "Zorrithar.md",
+    "Zorathar's Father.md",
+    "Princess of Shadowglass.md",
+    "Mystra.md",
+    "Session Notes/Season 2/Session 13.md",
+    "Mystra's Death.md",
+    "The Prophecy.md",
+    "Tablets of Fate.md",
+    "Glaedril's Emerald of Eternity Dream.md",
+    "Onyx of Oblivion.md",
+    "The Gems.md",
+    "Liliana Silverhand.md",
     "Masked Mage 2.md",
     "Masked Mage.md",
-    "The Gems.md",
     "Session 32.md",
     "Yartar.md",
-    "Session Notes/Season 2/Session 28.md",
-    "Session Notes/Season 2/Session 27.md",
-    "Session 36.md",
-    "Session 35.md",
-    "Cronox.md",
-    "Bel's One-Shot.md",
-    "Session Notes/Season 2/Session 25.md",
-    "Lightning Knife.md",
-    "Princess of Shadowglass.md",
-    "Queen of Darkness.md",
-    "Sehanine Moonbow.md",
-    "Selune.md",
-    "Oghma.md",
-    "Baba Yaga.md",
-    "Symeera.md",
-    "The Prophecy.md",
-    "Morathi.md",
     "assets/Pasted image 20250413150028.png",
     "assets/Pasted image 20250413150021.png",
     "assets/Pasted image 20250223144931.png",
