@@ -1,3 +1,7 @@
+---
+tags:
+  - Session
+---
 ### [[Shaadiry's Chamber]]
 - We are pulled to [[Shaadiry's Chamber]]
 - We see [[Shaadiry]]

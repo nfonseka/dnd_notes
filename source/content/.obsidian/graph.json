@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-tag:#backend  -path:backend  ",
+  "collapse-filter": true,
+  "search": "-tag:#backend  -path:backend  -tag:#Session  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,27 +12,6 @@
       "color": {
         "a": 1,
         "rgb": 0
-      }
-    },
-    {
-      "query": "tag:#GoodGuys",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#Untrustworthy",
-      "color": {
-        "a": 1,
-        "rgb": 14731602
-      }
-    },
-    {
-      "query": "tag:#BadGuys",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     },
     {
@@ -130,13 +109,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.840104166666667,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.337037037037037,
-  "repelStrength": 9.52592592592593,
-  "linkStrength": 1,
-  "linkDistance": 41,
-  "scale": 0.49318006750682075,
+  "collapse-forces": false,
+  "centerStrength": 0.0885416666666667,
+  "repelStrength": 13.3642578125,
+  "linkStrength": 0.850504557291667,
+  "linkDistance": 30,
+  "scale": 0.06906858325366154,
   "close": false
 }

@@ -8,4 +8,3 @@ Parent:
 ---
 - Underground gang backed by the [[Penniless Merchants]]
 - Run by [[Samael]]
-- 

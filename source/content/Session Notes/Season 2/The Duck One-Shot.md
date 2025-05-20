@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+---
+
  - On a [[Si Gadol]]
 - Meets [[Jaun]]
 - We are all [[Akum]]

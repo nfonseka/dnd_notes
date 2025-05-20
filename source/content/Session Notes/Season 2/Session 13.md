@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+---
+
 ### On the Road with Bel
 - Bels wagon party is being MUGGED
 - There is a [[Bug Bear]] and [[Silas]] and [[Nalatheras]]
