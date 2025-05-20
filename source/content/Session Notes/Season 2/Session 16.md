@@ -1,3 +1,7 @@
+---
+tags:
+  - Session
+---
 ## [[Phandolin]]
 - Triton goes to [[Barthen's Provisions]]
 - Triton buys a Miner's Pick

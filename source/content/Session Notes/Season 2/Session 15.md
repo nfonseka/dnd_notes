@@ -1,4 +1,9 @@
+---
+tags:
+  - Session
+---
 
+ 
  - Remi notices on Bel's Person. Bel's Amulet is missing
 - Red pulsing red light from the lighthouse
 - Red flash of red and blue light

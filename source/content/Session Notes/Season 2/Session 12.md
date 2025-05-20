@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+---
+
 ### Back in Glaedrils Hut
 - [[Bel's Visions]]
 

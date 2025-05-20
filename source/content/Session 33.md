@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+---
+
 - Caravan going toward [[Yartar]]
 - Holding a paper to the mages
 - ring structure with a shorter wall near the river

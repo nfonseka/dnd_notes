@@ -6,6 +6,7 @@
       {
         "id": "e1b8733140aafc07",
         "type": "tabs",
+        "dimension": 76.12732095490716,
         "children": [
           {
             "id": "73a2d81702e29600",
@@ -251,45 +252,40 @@
             "id": "0db297077863f017",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Baba Yaga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Baba Yaga"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "0a9ebaf9a23e246b",
+            "id": "f2d6bd20d602cfb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 32.md",
+                "file": "Session Notes/Season 2/Session 15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 32"
+              "title": "Session 15"
             }
           },
           {
-            "id": "915b30980b89d8f4",
+            "id": "c7cb1650233299ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Gem Prophecy.md",
+                "file": "Session Notes/Season 2/The Duck One-Shot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Gem Prophecy"
+              "title": "The Duck One-Shot"
             }
           },
           {
@@ -323,7 +319,29 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 16
+      },
+      {
+        "id": "016efd14ec69776b",
+        "type": "tabs",
+        "dimension": 23.872679045092838,
+        "children": [
+          {
+            "id": "957692afbd856632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Season 2/Session 16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 16"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -405,7 +423,7 @@
       {
         "id": "4eeba029e02695a6",
         "type": "tabs",
-        "dimension": 36.89154568744662,
+        "dimension": 56.53287788215201,
         "children": [
           {
             "id": "e5121e95498cd441",
@@ -413,7 +431,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Gem Prophecy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -423,7 +440,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Gem Prophecy"
+              "title": "Backlinks"
             }
           },
           {
@@ -478,13 +495,26 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "a0eb935f3111a26d",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "285fa856850a25e3",
         "type": "tabs",
-        "dimension": 31.42613151152861,
+        "dimension": 17.079419299743808,
         "children": [
           {
             "id": "7c5d3c4ec3cfd5cd",
@@ -492,7 +522,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Gem Prophecy.md",
+                "file": "Chats/New Chat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -515,12 +545,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.21350164168814734,
+                  "scale": 0.3753717234379938,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Gem Prophecy"
+              "title": "Graph of New Chat"
             }
           }
         ]
@@ -528,7 +558,7 @@
       {
         "id": "567c913fc71b855e",
         "type": "tabs",
-        "dimension": 31.682322801024768,
+        "dimension": 26.387702818104188,
         "children": [
           {
             "id": "58579f220920a810",
@@ -536,13 +566,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Gem Prophecy.md",
+                "file": "Chats/New Chat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Gem Prophecy"
+              "title": "Outline of New Chat"
             }
           }
         ]
@@ -561,37 +591,39 @@
       "canvas:Create new canvas": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "915b30980b89d8f4",
+  "active": "a0eb935f3111a26d",
   "lastOpenFiles": [
+    "Chats/New Chat.md",
+    "Chats",
+    "More'Gun.md",
+    "The Challengers.md",
+    "Archive/Hallway 2.md",
     "The Prophecies.md",
+    "Session Notes/Season 2/Session 27.md",
+    "Selan.md",
+    "Watcher's in the Dark.md",
+    "Session Notes/Season 1/Session 10.md",
+    "Session Notes/Season 2/Session 16.md",
+    "Session Notes/Season 2/Session 12.md",
+    "Session Notes/Season 2/Session 15.md",
+    "Averniss.md",
+    "Session Notes/Season 2/Session 13.md",
+    "Session 33.md",
+    "Session Notes/Season 2/Session 24.md",
+    "Session Notes/Season 2/The Duck One-Shot.md",
+    "Baba Yaga.md",
+    "Session 32.md",
+    "The Gem Prophecy.md",
     "Princess of Shadowglass.md",
     "Bel's One-Shot.md",
     "Session 40.md",
-    "Session 32.md",
     "Session 35.md",
     "Drar'Innochar.md",
     "Hooded Guy.md",
-    "Lathendar.md",
-    "Session Notes/Season 2/Session 13.md",
-    "The Severance between Holy Men and Women.md",
-    "Varis Firahel.md",
-    "Archive/Varis' Chambers.md",
-    "Another Vision.md",
-    "Session 39.md",
-    "Vraath'ax.md",
-    "Session Notes/Season 2/The Duck One-Shot.md",
-    "Delilah Ashton.md",
-    "Zyrian.md",
-    "Melekh Kharish.md",
-    "M'Vaser Mallardy Duckington.md",
-    "Yasha al-Damim.md",
-    "Elodim lashar.md",
-    "The Gem Prophecy.md",
-    "The Prophecy.md",
-    "Mystra.md",
     "assets/Pasted image 20250413150028.png",
     "assets/Pasted image 20250413150021.png",
     "assets/Pasted image 20250223144931.png",
@@ -612,7 +644,6 @@
     "BMO/Profiles",
     "BMO",
     "smart-chats",
-    "Session Notes/Season 2",
-    "Session Notes/Season 1"
+    "Session Notes/Season 2"
   ]
 }

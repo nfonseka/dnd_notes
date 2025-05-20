@@ -10,5 +10,6 @@
   "templater-obsidian",
   "obsidian-file-cooker",
   "webpage-html-export",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "smart-second-brain"
 ]

@@ -1,3 +1,8 @@
+---
+tags:
+  - Session
+---
+
 - on the way to [[Dwarven Excavation]]
 - [[Khazgrin Grundtusk]] at [[The Temple]]
 - Warped Alter and it is disturbing ^5bdef9
