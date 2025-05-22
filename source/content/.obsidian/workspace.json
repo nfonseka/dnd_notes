@@ -317,9 +317,21 @@
               "icon": "lucide-file",
               "title": "Bel's One-Shot"
             }
+          },
+          {
+            "id": "4c2457dda7639c19",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 21
       },
       {
         "id": "016efd14ec69776b",
@@ -373,7 +385,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Holy War\"",
+                "query": "Varis Robe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -423,7 +435,7 @@
       {
         "id": "4eeba029e02695a6",
         "type": "tabs",
-        "dimension": 56.53287788215201,
+        "dimension": 65.8119658119658,
         "children": [
           {
             "id": "e5121e95498cd441",
@@ -485,36 +497,14 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "899975b3b056291d",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a0eb935f3111a26d",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
-              "state": {
-                "file": "Chats/New Chat.md"
-              },
-              "icon": "message-square",
-              "title": "New Chat"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "285fa856850a25e3",
         "type": "tabs",
-        "dimension": 17.079419299743808,
+        "dimension": 17.094017094017097,
         "children": [
           {
             "id": "7c5d3c4ec3cfd5cd",
@@ -558,7 +548,7 @@
       {
         "id": "567c913fc71b855e",
         "type": "tabs",
-        "dimension": 26.387702818104188,
+        "dimension": 17.094017094017097,
         "children": [
           {
             "id": "58579f220920a810",
@@ -579,7 +569,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -595,7 +586,7 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "a0eb935f3111a26d",
+  "active": "d9eadf37bd3dedaa",
   "lastOpenFiles": [
     "Chats/New Chat.md",
     "Chats",
