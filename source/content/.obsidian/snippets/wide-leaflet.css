@@ -1,0 +1,22 @@
+/* Make Leaflet maps in preview and edit modes full width */
+
+.markdown-preview-view iframe,
+.markdown-source-view iframe {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Ensure Leaflet map containers span full width */
+.leaflet-container {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 500px !important; /* Adjust height as needed */
+  margin: 1em 0;
+}
+
+/* Optional: ensure block embeds that hold maps are full width */
+.markdown-embed,
+.markdown-embed-content {
+  width: 100% !important;
+  max-width: 100% !important;
+}

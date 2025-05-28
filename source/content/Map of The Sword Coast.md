@@ -1,8 +1,14 @@
 ```leaflet
-id: ezaros-world-region
+id: sword-coast
 image: [[sword_coast_map.png]]
 bounds:
 	- [0,0]
-	- [2809.9,1818.2]
+	- [10200,6600]
 unit: mi
+minZoom: 5
+defaultZoom: 7.5
+zoomDelta: 0.5
+width: 200%
+height: 800px
+scale: 0.2755
 ```

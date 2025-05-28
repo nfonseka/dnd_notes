@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "ezaros-world-region",
-      "lastAccessed": 1748397031015,
+      "lastAccessed": 1748402437661,
       "markers": [
         {
           "id": "ID_db5a194b2b0a",
@@ -19,6 +19,40 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_681a68fb7819",
+          "type": "default",
+          "loc": [
+            -2.894718385482429,
+            9.68957261094691
+          ],
+          "link": "Yartar",
+          "layer": "%5B%5Bsword_coast_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c84b287aa90b",
+          "type": "default",
+          "loc": [
+            -2.635077614265494,
+            7.932854201436581
+          ],
+          "link": "Neverwinter",
+          "layer": "%5B%5Bsword_coast_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -26,6 +60,53 @@
       "files": [
         "The Sword Coast.md",
         "Map of The Sword Coast.md"
+      ]
+    },
+    {
+      "id": "sword-coast",
+      "locked": false,
+      "lastAccessed": 1748402437662,
+      "markers": [
+        {
+          "id": "ID_48da4b59cb18",
+          "type": "City",
+          "loc": [
+            -2.878361362162745,
+            9.685429407150895
+          ],
+          "link": "Yartar",
+          "layer": "%5B%5Bsword_coast_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a2b0a7b1b88",
+          "type": "City",
+          "loc": [
+            -2.6352934061298696,
+            7.939759541096605
+          ],
+          "link": "Neverwinter",
+          "layer": "%5B%5Bsword_coast_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Map of The Sword Coast.md",
+        "Templates/Map.md"
       ]
     }
   ],
@@ -37,9 +118,43 @@
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#acaafd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Event",
+      "iconName": "clock",
+      "color": "#feb086",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -57,7 +172,47 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": "7.5",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[sword_coast_map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[sword_coast_map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": "5",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": "0.5",
+    "zoomFeatures": false,
+    "id": "sword-coast",
+    "bounds": "",
+    "unit": "mi",
+    "lat": "1486",
+    "long": "583",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
