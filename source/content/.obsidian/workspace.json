@@ -6,339 +6,20 @@
       {
         "id": "e1b8733140aafc07",
         "type": "tabs",
-        "dimension": 76.12732095490716,
         "children": [
-          {
-            "id": "73a2d81702e29600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 35.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 35"
-            }
-          },
-          {
-            "id": "ae294c51960e3fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 40.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 40"
-            }
-          },
-          {
-            "id": "87f784af79d6432d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lathendar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lathendar"
-            }
-          },
-          {
-            "id": "f71b68c51b400c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Delilah Ashton.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Delilah Ashton"
-            }
-          },
-          {
-            "id": "20d919daeb40027c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zyrian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zyrian"
-            }
-          },
-          {
-            "id": "5fdc38d42363fc2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bel's One-Shot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bel's One-Shot"
-            }
-          },
-          {
-            "id": "cd5298c57f3f497f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 29"
-            }
-          },
-          {
-            "id": "fdc9dfbc7f76b1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 39.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 39"
-            }
-          },
-          {
-            "id": "445980e51c02d35c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Temple.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Temple"
-            }
-          },
-          {
-            "id": "299b4c63a6c20040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mystra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Mystra"
-            }
-          },
-          {
-            "id": "208ad12aaf0d0858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 40.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 40"
-            }
-          },
-          {
-            "id": "9ab4983b0695642c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cronox.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cronox"
-            }
-          },
-          {
-            "id": "d44ce7bb3dfcfe27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bel's One-Shot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bel's One-Shot"
-            }
-          },
-          {
-            "id": "0c22f282841e55dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sehanine Moonbow.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sehanine Moonbow"
-            }
-          },
-          {
-            "id": "cc2c19c0638ecc1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sehanine Moonbow.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sehanine Moonbow"
-            }
-          },
-          {
-            "id": "8162645aa538e319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selune.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Selune"
-            }
-          },
-          {
-            "id": "0db297077863f017",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f2d6bd20d602cfb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 15"
-            }
-          },
-          {
-            "id": "c7cb1650233299ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/The Duck One-Shot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Duck One-Shot"
-            }
-          },
           {
             "id": "4ec164417912d833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Princess of Shadowglass.md",
+                "file": "Map of The Sword Coast.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Princess of Shadowglass"
-            }
-          },
-          {
-            "id": "8bba5c7104d1c3f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bel's One-Shot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bel's One-Shot"
-            }
-          }
-        ],
-        "currentTab": 20
-      },
-      {
-        "id": "016efd14ec69776b",
-        "type": "tabs",
-        "dimension": 23.872679045092838,
-        "children": [
-          {
-            "id": "957692afbd856632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 2/Session 16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 16"
+              "title": "Map of The Sword Coast"
             }
           }
         ]
@@ -373,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Varis Robe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -409,12 +90,12 @@
               "title": "Season 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 351,
+    "collapsed": true
   },
   "right": {
     "id": "db04c58c563903d8",
@@ -571,11 +252,24 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "smart-second-brain:Open S2B Chat": false
+      "smart-second-brain:Open S2B Chat": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d9eadf37bd3dedaa",
+  "active": "4ec164417912d833",
   "lastOpenFiles": [
+    "Princess of Shadowglass.md",
+    "assets/sword_coast_map.png",
+    "The Sword Coast.md",
+    "Map of The Sword Coast.md",
+    "Session Notes/Season 2/The Duck One-Shot.md",
+    "Session Notes/Season 2/Session 15.md",
+    "Selune.md",
+    "Sehanine Moonbow.md",
+    "Bel's One-Shot.md",
+    "Cronox.md",
+    "Session 40.md",
+    "Mystra.md",
     "Chats/New Chat.md",
     "Chats",
     "More'Gun.md",
@@ -588,21 +282,9 @@
     "Session Notes/Season 1/Session 10.md",
     "Session Notes/Season 2/Session 16.md",
     "Session Notes/Season 2/Session 12.md",
-    "Session Notes/Season 2/Session 15.md",
     "Averniss.md",
     "Session Notes/Season 2/Session 13.md",
     "Session 33.md",
-    "Session Notes/Season 2/Session 24.md",
-    "Session Notes/Season 2/The Duck One-Shot.md",
-    "Baba Yaga.md",
-    "Session 32.md",
-    "The Gem Prophecy.md",
-    "Princess of Shadowglass.md",
-    "Bel's One-Shot.md",
-    "Session 40.md",
-    "Session 35.md",
-    "Drar'Innochar.md",
-    "Hooded Guy.md",
     "assets/Pasted image 20250413150028.png",
     "assets/Pasted image 20250413150021.png",
     "assets/Pasted image 20250223144931.png",
@@ -612,7 +294,6 @@
     "assets/Pasted image 20250223143903.png",
     "assets/Pasted image 20250223143856.png",
     "assets/Pasted image 20250223143846.png",
-    "assets/Pasted image 20250223143442.png",
     "_index.html",
     "output/_index.html",
     "output/attachment",

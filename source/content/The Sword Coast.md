@@ -2,7 +2,7 @@
 tags:
   - Location
 ---
-
+[[Map of The Sword Coast]]
 - Arrow marking to the [[The Luskans]]
 	- Ink is recent and hasn't fully dried
 	- Written mb a day ago
