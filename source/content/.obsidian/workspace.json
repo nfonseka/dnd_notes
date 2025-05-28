@@ -317,21 +317,9 @@
               "icon": "lucide-file",
               "title": "Bel's One-Shot"
             }
-          },
-          {
-            "id": "4c2457dda7639c19",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
-              "state": {
-                "file": "Chats/New Chat.md"
-              },
-              "icon": "message-square",
-              "title": "New Chat"
-            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       },
       {
         "id": "016efd14ec69776b",
