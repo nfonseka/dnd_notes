@@ -1,6 +1,7 @@
 ---
 tags:
   - Location
+banner: https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/2e869e6a-66fc-4fb1-b485-ffe5e8231a94/uploads/images/4f6546763253b57dbde107c26af4cbd2.png
 ---
 
 - A lot of shit happened here

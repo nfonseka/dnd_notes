@@ -12,7 +12,7 @@ tags:
 		- First piece of gold
 		- Mother Hurntusk
 - [[Gara]] says its the works of the [[Yartar]]ans
-	- [[Yartar]] removed a statue of [[Hela Brightaxe]] in [[Phandolin]] 
+	- [[Yartar]] removed a statue of [[Hela Brightaxe]] in [[Phandalin]] 
 
 - ![[Dwarven Excavation]]
 - Paper that says greed is good

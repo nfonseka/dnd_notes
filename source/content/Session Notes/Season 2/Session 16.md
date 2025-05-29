@@ -2,7 +2,7 @@
 tags:
   - Session
 ---
-## [[Phandolin]]
+## [[Phandalin]]
 - Triton goes to [[Barthen's Provisions]]
 - Triton buys a Miner's Pick
 - Goes into [[Stone Hill Inn]]
@@ -25,7 +25,7 @@ tags:
 - Historically a presence of orcs
 	- Incondusive to civilation
 	- Monsters in the area
-	- Calmer around [[Phandolin]] 
+	- Calmer around [[Phandalin]] 
 	- Watch your back in [[Yartar]] 
 - Sneaking near Miners Exchange
 	- Someone Bolt's Out and [[Dimension Door]]

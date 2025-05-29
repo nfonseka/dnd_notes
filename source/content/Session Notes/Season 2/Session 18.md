@@ -21,7 +21,7 @@ tags:
 	- Burning pain then chill
 - It has been eating livestock and fighting orcs
 - [[Baby Dragon]] has an AC of 17, immune to cold damage. No immunities to any conditions or
-- It has emerged from a tower and it can see [[Phandolin]], It can see the [[Tower of Storms]]
+- It has emerged from a tower and it can see [[Phandalin]], It can see the [[Tower of Storms]]
 - He is coming from northeast
 - From a tower home
 - bb dragon

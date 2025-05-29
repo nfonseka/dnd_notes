@@ -1,4 +1,4 @@
-## [[Phandolin]] 
+## [[Phandalin]] 
 ### Miner's Exchange
 - In the secret room
 - [[Lady Halia Thornton]] looks calm

@@ -1,9 +1,9 @@
 {
-  "accentColor": "#ff8400",
+  "accentColor": "",
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "baseFontSize": 20,
-  "enabledCssSnippets": [
-    "wide-leaflet"
-  ]
+  "enabledCssSnippets": [],
+  "showViewHeader": true,
+  "showRibbon": true
 }

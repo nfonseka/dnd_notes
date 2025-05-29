@@ -15,7 +15,7 @@ tags:
 
 ### Back in the hut
 - [[Rosette]] took the stone from [[Delilah Ashton]]
-- She was in [[Phandolin]] and there were 2 others
+- She was in [[Phandalin]] and there were 2 others
 - Knights soul is in the stone
 - The night [[Rhettekest]] died
 - [[Zorrithar]] was the name of the knight
@@ -23,7 +23,7 @@ tags:
 - [[Bootleg]], [[Steve Stiamh]] and [[Sharp]] are looking for [[Drake]] ^e7286c
 - A tendril hits Rosette and tried to break the [[Ring of Mind Shielding]]
 - [[Bel]] grabs the ring, breaks the shadows and the ring is cracked and [[Bel]] catches Rosette (who is still alive)
-- Bel flies toward [[Phandolin]]
+- Bel flies toward [[Phandalin]]
 
 ### BOAT
 - Tendrils pull back toward the south

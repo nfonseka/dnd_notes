@@ -8,7 +8,7 @@ unit: mi
 minZoom: 5
 defaultZoom: 7.5
 zoomDelta: 0.5
-width: 200%
-height: 800px
+width: 100%
+height: 400px
 scale: 0.2755
 ```

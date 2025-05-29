@@ -16,8 +16,8 @@ tags:
 	 ^4c8d12
 - [[Talos]] goes toward the [[Circle of Thunder]]  ^85f90e
 - [[Lightning Elemental]] disappear
-- On the road to [[Yartar]] and [[Phandolin]] 
-- [[Griffin]] in the air wearing cladded armour and banners with symbol of [[Yartar]] and symbol of [[Lionshield Coster]]. It parks in [[Phandolin]] and goes toward [[Yartar]]. Someone is riding the griffin with armour. 
+- On the road to [[Yartar]] and [[Phandalin]] 
+- [[Griffin]] in the air wearing cladded armour and banners with symbol of [[Yartar]] and symbol of [[Lionshield Coster]]. It parks in [[Phandalin]] and goes toward [[Yartar]]. Someone is riding the griffin with armour. 
 - Message from [[Sending Stone]] : "You are wanted across [[Faerune]], Be Careful. Come to [[Umbrage Hill]] when it is safe." ^622c06
 - Disguise [[MirMir]] as a jousting animal
 - Remi is disguised as Fish Tastic the sexy fisherman
@@ -27,7 +27,7 @@ tags:
 - [[Jaun]] and the [[The Duck One-Shot|ducks]] are from the lake
 - Assasins may have been wiped out by divine somethe (see [[Bhaal]])
 - Toblin of [[Yartar]]
-- Theres something pushing the orcs toward [[Phandolin]]
+- Theres something pushing the orcs toward [[Phandalin]]
 - [[Winged Beasts]] consuming livestock
 #### Appendix
 ##### Ingredients for Cooking

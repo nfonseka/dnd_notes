@@ -4,36 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9cdca35e74aa4c2e",
+        "id": "0541ced2e228c349",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b44ca941811082",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
-          },
-          {
-            "id": "30e072d3c8317258",
+            "id": "161469cf34cb548d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map of The Sword Coast.md",
+                "file": "Session 40.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Map of The Sword Coast"
+              "title": "Session 40"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 351,
+    "collapsed": true
   },
   "right": {
     "id": "db04c58c563903d8",
@@ -262,15 +252,19 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "30e072d3c8317258",
+  "active": "161469cf34cb548d",
   "lastOpenFiles": [
     "Map of The Sword Coast.md",
+    "Yartar.md",
+    "Phandalin.md",
+    "Yatar.md",
+    "Mere of Dead Men.md",
     "Neverwinter.md",
     "Templates/Map.md",
-    "Yartar.md",
     "Princess of Shadowglass.md",
     "assets/sword_coast_map.png",
     "The Sword Coast.md",
@@ -292,9 +286,6 @@
     "Selan.md",
     "Watcher's in the Dark.md",
     "Session Notes/Season 1/Session 10.md",
-    "Session Notes/Season 2/Session 16.md",
-    "Session Notes/Season 2/Session 12.md",
-    "Averniss.md",
     "assets/Pasted image 20250413150028.png",
     "assets/Pasted image 20250413150021.png",
     "assets/Pasted image 20250223144931.png",

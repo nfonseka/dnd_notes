@@ -4,5 +4,5 @@ tags:
 Organisations:
   - "[[Lionshield Coster]]"
 ---
-- Head of [[Lionshield Coster]] in [[Phandolin]]
+- Head of [[Lionshield Coster]] in [[Phandalin]]
 - Officer outfit soldier.

@@ -47,6 +47,7 @@
     "Language": "multitext",
     "Characters": "multitext",
     "Locations": "multitext",
-    "Siblings": "multitext"
+    "Siblings": "multitext",
+    "banner_fade": "number"
   }
 }

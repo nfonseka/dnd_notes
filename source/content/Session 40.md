@@ -11,7 +11,7 @@ tags:
 	- [[Jaun]] is very familiar to [[Triton]] 
 	- Jaun's body is pulled through the nightmare
 	- [[Forbiddance]] 
-	- Triton's dreams are protected??
+	- Triton's dreams are protected
 
 - [[Morathi]] is [[Zyrian]]'s daughter
 - [[The Prophecies]]
@@ -21,7 +21,8 @@ tags:
 
 - Are we the prisoner 
 - [[The celestial stairway]]
-- There was a psychic intrusion
+- There was a psychic intrusion 
+
 - Remi and triton cant say "[[Shar]]"
 - [[Jaun]] tries to say Shar and [[Symeera]]/[[Liliana Silverhand]] appears
 	- They have to rewrite the prophecy
