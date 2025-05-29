@@ -65,7 +65,7 @@
     {
       "id": "sword-coast",
       "locked": false,
-      "lastAccessed": 1748402799042,
+      "lastAccessed": 1748482757653,
       "markers": [
         {
           "id": "ID_48da4b59cb18",
@@ -122,7 +122,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Map of The Sword Coast.md"
+        "Map of The Sword Coast.md",
+        "Templates/Map.md"
       ]
     }
   ],

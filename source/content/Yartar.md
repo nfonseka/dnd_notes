@@ -2,12 +2,8 @@
 tags:
   - Location
   - City
-allies: 
 banner: https://static.wikia.nocookie.net/forgottenrealms/images/2/29/Yartary.png/revision/latest?cb=20200302192044
-banner-x: 51
-banner-y: 0
-content-start: 241
-banner-height: 400
+banner_y: "12"
 ---
 - [[Bane]]'s City 
 - City of Trade

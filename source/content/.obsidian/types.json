@@ -48,6 +48,7 @@
     "Characters": "multitext",
     "Locations": "multitext",
     "Siblings": "multitext",
-    "banner_fade": "number"
+    "banner_fade": "number",
+    "Date": "date"
   }
 }

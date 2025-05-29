@@ -1,4 +1,8 @@
 #backend
+
+> [!summary]
+> Symeera tells about Varis and teleports us to the [[Church of Oghma]] 
+
 ### [[Symeera's Room]]
 1. Teleported to [[Symeera's Room]]
 2. . [[Triton]] remembers Teleportation Rune
@@ -14,4 +18,3 @@
 9. Guards downstairs Guarding the room where [[Varis Firahel]] died
 10. Guards are approaching
 11. TB, Tr, Mx and Gl disguise as Guards Rm disguises as a statue
-12. 
