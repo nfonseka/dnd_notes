@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sword Coast Campaign.md",
+                "file": "Questions for Brian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sword Coast Campaign"
+              "title": "Questions for Brian"
             }
           },
           {
@@ -38,63 +38,18 @@
             }
           },
           {
-            "id": "b0a9b6c3f2ffed69",
+            "id": "89a55a4e5386bbf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/White Heart Fruit.md",
+                "file": "Glaedril's Plant Vision.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "White Heart Fruit"
-            }
-          },
-          {
-            "id": "a9b8341f7b1def91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests and Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Quests and Questions"
-            }
-          },
-          {
-            "id": "d574f7904669bba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Varis' Chambers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Varis' Chambers"
-            }
-          },
-          {
-            "id": "e7a738901ccf80d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Garden Room.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Garden Room"
+              "title": "Glaedril's Plant Vision"
             }
           }
         ],
@@ -170,10 +125,13 @@
             "id": "5bf95d940783f000",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -261,6 +219,26 @@
               "icon": "file-digit",
               "title": "Strange New Worlds"
             }
+          },
+          {
+            "id": "c20016460f5720e3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "65f8f48ddcd13125",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ],
         "currentTab": 4
@@ -276,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archive/White Heart Fruit.md",
+                "file": "Glaedril's Plant Vision.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-tag:#backend  -path:backend  ",
@@ -304,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of White Heart Fruit"
+              "title": "Graph of Glaedril's Plant Vision"
             }
           }
         ]
@@ -320,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/White Heart Fruit.md",
+                "file": "Glaedril's Plant Vision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of White Heart Fruit"
+              "title": "Outline of Glaedril's Plant Vision"
             }
           }
         ]
@@ -347,39 +325,39 @@
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "b0a9b6c3f2ffed69",
+  "active": "89a55a4e5386bbf0",
   "lastOpenFiles": [
-    "White Heart Tree.md",
-    "Wiki.md",
+    "Session Notes/Season 1/Session 5.md",
+    "Session Notes/Season 1/Session 4.md",
+    "Session Notes/Season 1/Session 3.md",
+    "The Sword Coast.md",
     "Archive/Garden Room.md",
+    "Varis Firahel.md",
+    "Wiki.md",
+    "Tyr.md",
+    "Lathendar.md",
+    "Torm.md",
+    "Tantrus.md",
+    "Session Notes/Season 1/Session 2.md",
+    "Archive/Varis' Chambers.md",
+    "Neverwinter-Luskan War.md",
+    "Questions for Brian.md",
     "Sword Coast Campaign.md",
     "Quests and Questions.md",
-    "Archive/Varis' Chambers.md",
-    "Session Notes/Season 1/Session 2.md",
-    "Home.md",
-    "The Prophecy.md",
-    "The Task.md",
-    "Session Notes/Season 1/Session 1.md",
-    "The Problem.md",
-    "Agenda.md",
-    "Templates/Session.md",
-    "Session 41.md",
-    "Vraath'ax.md",
-    "Characters.md",
-    "Locations.md",
-    "Abathor.md",
-    "Aasimar.md",
-    "Yartar.md",
-    "Phandalin.md",
+    "Prophecy Chamber.md",
+    "The Death.md",
+    "Archive/The Body (of Varis).md",
+    "White Heart Tree.md",
+    "Varis' Journal.md",
+    "Lord Nasher Alagondar.md",
+    "Death of Magic.md",
+    "Zentaren.md",
+    "Archive/Meeting Room.md",
     "Tags",
-    "Map of The Sword Coast.md",
-    "Templates/Location.md",
-    "Neverwinter.md",
-    "Left Room Prayer Room.md",
     "assets/sword_coast_map.jpg",
     "assets/sword_coast_map.png",
     "assets/sword_coast_map_compressed.jpg",

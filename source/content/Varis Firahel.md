@@ -13,7 +13,6 @@ allies:
 - Exceptionally powerful Divination Wizard and Knowledge Domain Cleric
 - Wears Gray [[Varis' Robe|Robe of the Arch Magi]] with the holy symbol of Oghma embroidered on the sleeve at his right shoulder
 - [[Varis' Journal]]
-
 - Killed by [[Powerword Kill]] and [[Firebolt]]. [[Firebolt]] was used to get varis below 100 hp and then powerword kill
 	- this means there was 2 of them or a way to cast 2 actions in one turn.
 ## Body
@@ -34,3 +33,14 @@ allies:
 	- a bunch of shit happens
 - [[Ring of Mind Shielding]]
 	- Martxn Takes
+
+## Death
+- Signs of Treachery
+- [[Varis Firahel]] was killed 8 hours ago 
+- In his [[Prophecy Chamber]]
+- in the middle of night
+- The [[Delilah Ashton]] Knows
+	- He has been quiet
+- They don't want to move his body
+- There had to be someone incredibly powerful
+- Firebolt cantrip has hit him but something else has killed him

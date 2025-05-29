@@ -1,6 +1,5 @@
 ---
-allies:
-  - "[[Tantrus]]"
+allies: []
 tags:
   - God
 Enemies:

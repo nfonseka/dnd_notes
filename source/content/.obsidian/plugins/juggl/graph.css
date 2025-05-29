@@ -2,3 +2,18 @@ edge.has-incoming-allies {
     line-color: red;
 }
 /* For a full overview of styling options, see https://js.cytoscape.org/#style */
+
+/* Allies: Green edges, thicker line */
+edge[field="allies"] {
+    stroke: #00c853;
+    stroke-width: 2;
+  }
+  
+  /* Enemies: Red edges, arrows, dashed */
+  edge[field="enemies"] {
+    stroke: #d50000;
+    stroke-width: 2;
+    stroke-dasharray: 5, 5;
+    marker-end: url(#arrow);
+  }
+  

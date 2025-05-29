@@ -2,7 +2,6 @@
 tags:
   - Vision
 ---
-
 - Glaedril eats a fruit from the [[White Heart Tree]]
 - The recent history of the [[Gods of Feyrune|gods]]
 	- One is plate armour with hammer - [[Torm]]
