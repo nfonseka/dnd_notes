@@ -4,3 +4,6 @@
 - Who Killed [[Varis Firahel]]
 
 ## The Holy War
+
+## The Gods
+- What is [[Glaedril]]'s connection to [[Selune]] 

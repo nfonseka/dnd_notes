@@ -19,7 +19,7 @@ allies:
 - No sign of any physical death
 - Looks like his soul was ripped out of his body
 	- Haram Magic
-	- Soul Cage (6th Level Necromancy)
+	- [[Soul Cage]] (6th Level Necromancy)
 	- Gods can do this
 - On his back of his robe there was charred
 - Firebolt cantrip has hit him 
@@ -43,4 +43,4 @@ allies:
 	- He has been quiet
 - They don't want to move his body
 - There had to be someone incredibly powerful
-- Firebolt cantrip has hit him but something else has killed him
+- [[Firebolt]] cantrip has hit him and [[Powerword Kill]] was then used

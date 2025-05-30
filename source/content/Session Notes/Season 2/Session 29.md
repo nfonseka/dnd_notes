@@ -26,7 +26,7 @@ Location: "[[Underdark]]"
 			- Bel and Triton on the left
 	- Triton has a vision about the [[The Gems]]
 		- ![[The Gems#^ed6cef]]
-	- [[Shar]] shows up on [[Varis' Robe]] 
+	- [[Shaar]] shows up on [[Varis' Robe]] 
 	- We saw something we were not supposed to see.
 	- There is a burn mark on back of [[Varis' Robe]] from a fire-bolt spell, this was also on Varis's Body
 		- This is the robes reacting

@@ -23,7 +23,7 @@ tags:
 - [[The celestial stairway]]
 - There was a psychic intrusion 
 
-- Remi and triton cant say "[[Shar]]"
+- Remi and triton cant say "[[Shaar]]"
 - [[Jaun]] tries to say Shar and [[Symeera]]/[[Liliana Silverhand]] appears
 	- They have to rewrite the prophecy
 - Massive Arm comes out of Jaun's pouch and it grabs [[Symeera]]

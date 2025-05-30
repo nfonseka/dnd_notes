@@ -3,7 +3,7 @@
 - Only [[Martxn]] is awake but is pretending to be unconscious 
 - [[Merkeles]] 
 - We are all conscious and [[Rosette]] comes in and interogates us
-- Rosette brings out [[The Body (of Varis)]]
+o- Rosette brings out [[The Body (of Varis)]]
 - Uses a [[Scroll of Resist Thoughts]] to interogate Martxn
 - Rosette is :(((( and digs through martxns memories (everything after the barons death)
 - **Rosette wants to let us go?**
