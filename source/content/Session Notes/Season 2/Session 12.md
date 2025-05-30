@@ -4,7 +4,7 @@ tags:
 ---
 
 ### Back in Glaedrils Hut
-- [[Bel's Visions]]
+- [[Bel's Visions of the Mere of Dead Men]]
 
 ### BOAT
 - Guards being dispatched and ppl coming from churches
@@ -21,6 +21,7 @@ tags:
 - [[Zorrithar]] was the name of the knight
 - [[Drake]]?
 - [[Bootleg]], [[Steve Stiamh]] and [[Sharp]] are looking for [[Drake]] ^e7286c
+#### All Assasins are Killed
 - A tendril hits Rosette and tried to break the [[Ring of Mind Shielding]]
 - [[Bel]] grabs the ring, breaks the shadows and the ring is cracked and [[Bel]] catches Rosette (who is still alive)
 - Bel flies toward [[Phandalin]]

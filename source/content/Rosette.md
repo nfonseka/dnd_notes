@@ -11,4 +11,4 @@ allies:
 - Always female
 - Always blood red key medallion
 - Right Hand: [[Boris]]
-- ![[Pasted image 20231228210843.png]]
+![[Pasted image 20231228210843.png]]

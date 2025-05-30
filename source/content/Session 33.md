@@ -52,7 +52,7 @@ tags:
 	- for the nobility to mingle with the commonfolk
 	- Everyone is given a mask that will conceil their identity
 	- Ranis plan is to steal a key at the masquerade and then investigate the hall of fortune
-- [[Lucille Silverhand]] is [[Masked Mage 2]] 
-- and [[Liliana Silverhand]] is [[Masked Mage]]
+- [[Lucille Silverhand]] is [[Lucille Silverhand]] 
+- and [[Liliana Silverhand]] is [[Liliana Silverhand]]
 	- They probably also know we are here
 [[Session 34]]

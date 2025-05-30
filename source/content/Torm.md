@@ -1,5 +1,7 @@
 ---
-allies: []
+allies:
+  - "[[Tyr]]"
+  - "[[Ill Mater]]"
 tags:
   - God
 Enemies:

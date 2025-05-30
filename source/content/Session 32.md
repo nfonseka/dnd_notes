@@ -63,7 +63,7 @@ tags:
 			- being taken advantage of
 		- The devil
 			- image shifts into the bloodstone wielders
-			- [[Masked Mage]], [[Masked Mage 2]]
+			- [[Liliana Silverhand]], [[Lucille Silverhand]]
 			- devils seek to rule reality, wish to enslave those that can, power, control, domination, the agenda of devils
 				- demons are creatures of chaos, madness, wanton destruction for their own sake
 				- if demons consume all of reality what is there left to rule

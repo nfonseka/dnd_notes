@@ -10,6 +10,9 @@ God_of:
   - Creativity
 tags:
   - God
+allies:
+  - "[[Tyr]]"
+  - "[[Oghma]]"
 ---
 - Intolerant of [[Undead]]
 - Clerics are Dawn Bringers

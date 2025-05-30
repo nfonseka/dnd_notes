@@ -6,12 +6,85 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "ae92138daad0264f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Season 2/Session 22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 22"
+            }
+          },
+          {
+            "id": "15f6aa90a28e866a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baby Dragon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Baby Dragon"
+            }
+          },
+          {
+            "id": "f22c737c101888f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ill Mater.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ill Mater"
+            }
+          },
+          {
+            "id": "9b16e9a548c04fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tyr.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tyr"
+            }
+          },
+          {
+            "id": "fe7baec4987aa9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Torm"
+            }
+          },
+          {
+            "id": "23ebe5ea94fdb6a5",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -20,63 +93,8 @@
                 "source": false,
                 "backlinks": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Wiki"
-            }
-          },
-          {
-            "id": "acd876bc8ad5b807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mystra's Death.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Mystra's Death"
-            }
-          },
-          {
-            "id": "1f6de923d3abdf19",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests and Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Quests and Questions"
-            }
-          }
-        ]
-      },
-      {
-        "id": "068b4a231907f7a9",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "483dbcafc0bd950f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Season 1/Session 11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 11"
             }
           }
         ]
@@ -85,15 +103,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "71555906b6316e23",
+    "id": "ee89a15319946e37",
     "type": "split",
     "children": [
       {
-        "id": "baefd678b8be950b",
+        "id": "9cbe8cbbb95b07b4",
         "type": "tabs",
         "children": [
           {
-            "id": "5b245464f0df0d9e",
+            "id": "1ca8ee281d22a54a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -106,7 +124,7 @@
             }
           },
           {
-            "id": "d9eadf37bd3dedaa",
+            "id": "54fa124541f26729",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -123,7 +141,7 @@
             }
           },
           {
-            "id": "fa543d4e1ce3fa57",
+            "id": "5b33b997f5d97bc2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -133,22 +151,7 @@
             }
           },
           {
-            "id": "8cde1e4029964652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backend/Season 2/Season 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Season 2"
-            }
-          },
-          {
-            "id": "99f225a390661622",
+            "id": "80663ba75b963acb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -157,56 +160,55 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "db04c58c563903d8",
+    "id": "6bd86a3a48b28be7",
     "type": "split",
     "children": [
       {
-        "id": "4eeba029e02695a6",
+        "id": "4e73c53e1253ebb8",
         "type": "tabs",
-        "dimension": 65.8119658119658,
         "children": [
           {
-            "id": "e5121e95498cd441",
+            "id": "18e785aec87f2bfc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
           },
           {
-            "id": "0313b9dcae951da4",
+            "id": "b7e5abed4e428f72",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Gem Prophecy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Gem Prophecy"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "4ca2ed3619ae97f6",
+            "id": "6d1b17b7d66abee6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -221,7 +223,7 @@
             }
           },
           {
-            "id": "ba2f198d7c355f8d",
+            "id": "1ae6ac78320ee232",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -235,7 +237,21 @@
             }
           },
           {
-            "id": "75d169f559068c4a",
+            "id": "c7a99a4e5ee207f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1b30dd3f1cc6ee01",
             "type": "leaf",
             "state": {
               "type": "Strange New Worlds",
@@ -245,7 +261,7 @@
             }
           },
           {
-            "id": "c20016460f5720e3",
+            "id": "660ccef4e6752dfe",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -255,7 +271,7 @@
             }
           },
           {
-            "id": "65f8f48ddcd13125",
+            "id": "6dcb1605ce727edd",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -264,88 +280,21 @@
               "title": "Juggl style"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "285fa856850a25e3",
-        "type": "tabs",
-        "dimension": 17.094017094017097,
-        "children": [
-          {
-            "id": "7c5d3c4ec3cfd5cd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Wiki.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "-tag:#backend  -path:backend  ",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3753717234379938,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Wiki"
-            }
-          }
-        ]
-      },
-      {
-        "id": "567c913fc71b855e",
-        "type": "tabs",
-        "dimension": 17.094017094017097,
-        "children": [
-          {
-            "id": "58579f220920a810",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Wiki.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Wiki"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false,
@@ -354,55 +303,33 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ae92138daad0264f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Session Notes/Season 1/Session 11.md",
+    "Circle of Thunder.md",
+    "Session Notes/Season 2/Session 22.md",
+    "Session Notes/Season 2/Session 21 - Basketball.md",
+    "Session Notes/Season 2/Session 20.md",
+    "Session Notes/Season 2/Session 19.md",
     "Wiki.md",
-    "Battle between Torm and Bane.md",
-    "Shaar.md",
-    "Session Notes/Season 1/Session 10.md",
-    "Shaadiry's Book.md",
-    "Mystra's Death.md",
-    "Session Notes/Season 1/Session 9.md",
-    "Rosette.md",
-    "Archive/Shaadiry's Chamber.md",
-    "Umbra of Raxes.md",
-    "Merkeles.md",
-    "Session Notes/Season 1/Session 8.md",
-    "Varis Firahel.md",
-    "Quests and Questions.md",
-    "Glaedril's Dream.md",
-    "Session Notes/Season 1/Session 7.md",
-    "Session Notes/Season 1/Session 6.md",
-    "Session Notes/Season 1/Session 5.md",
-    "Glaedril's Plant Vision.md",
-    "Infernal.md",
+    "Glaedril.md",
+    "Green Mushroom.md",
+    "Anus Dimensions.md",
+    "Session Notes/Season 2/Session 18.md",
+    "Mantichore.md",
+    "Baby Dragon.md",
+    "Tower of Storms.md",
+    "Hooded Guy.md",
+    "Drake Search Party.md",
+    "Session Notes/Season 2/Session 17.md",
+    "Session Notes/Season 2/Session 16.md",
+    "Dimension Door.md",
+    "Ill Mater.md",
+    "Tyr.md",
     "Torm.md",
-    "Session Notes/Season 1/Session 4.md",
-    "Sword Coast Campaign.md",
-    "home.old.md",
-    "Session Notes/Season 1/Session 3.md",
-    "Tags",
-    "assets/sword_coast_map.jpg",
-    "assets/sword_coast_map.png",
-    "assets/sword_coast_map_compressed.jpg",
-    "Chats",
-    "assets/Pasted image 20250413150028.png",
-    "assets/Pasted image 20250413150021.png",
-    "assets/Pasted image 20250223144931.png",
-    "assets/Pasted image 20250223144855.png",
-    "assets/Pasted image 20250223144717.png",
-    "assets/Pasted image 20250223144007.png",
-    "assets/Pasted image 20250223143903.png",
-    "_index.html",
-    "output/_index.html",
-    "output/attachment",
-    "output",
-    "Templates/Untitled",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "BMO/Profiles",
-    "BMO",
-    "smart-chats"
+    "Ruby of Reflection.md",
+    "Session Notes/Season 2/Session 15.md",
+    "The Triad.md",
+    "Talos.md",
+    "Session Notes/Season 2/Session 14.md"
   ]
 }

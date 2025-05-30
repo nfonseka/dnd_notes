@@ -20,7 +20,7 @@ tags:
 > - 7 locks, 7 keys, 7 eyes which do not see, 7 wardens, 7 banished, 7 shackled, chained in cells, 7 prisoners break free, unleashing all of hell
 
 - Are we the prisoner 
-- [[The celestial stairway]]
+- [[The Celestial Stairway]]
 - There was a psychic intrusion 
 
 - Remi and triton cant say "[[Shaar]]"
@@ -45,7 +45,7 @@ tags:
 		- She discerned that her fate was never to hold throne, which is the seat of [[The Gloaming Courts]] that controls [[Feydark]] 
 		- So she left the [[Feydark]] and [[Feywild]] and met [[Zyrian]]
 			- They lived hapily for a couple hundred years
-		- She had a premonitions and they ascended [[The celestial stairway]] and they witnessed their fate
+		- She had a premonitions and they ascended [[The Celestial Stairway]] and they witnessed their fate
 			- They saw their future and what their destiny was written out to be
 			- They returned but the [[Princess of Shadowglass]] siting on the throne of the [[The Gloaming Courts]] surrounded by [[Devils]]
 			- [[Zyrian]] saw the same vision but saw that it would end all mortal life as we know it

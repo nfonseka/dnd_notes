@@ -18,5 +18,5 @@ Notes: Set: Unarmored Armor Class, Advantage: Saving Throws, Bonus: Spell Attack
 
 ### Vision
 - Glaedril Sees: [[Selune]], Death and Destiny
-- Selune and Destiny Fade away and [[Mystra's Death]] shows up
+- Selune and Destiny Fade away and [[Mystra]] shows up
 - Bel sees a name: [[Shaar]]

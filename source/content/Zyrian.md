@@ -4,7 +4,7 @@ tags:
 ---
 - Wrote [[The Scriveners tale]]
 - Made the first gem with [[Triton]]
-- Zyrian ascended [[The celestial stairway]] 
+- Zyrian ascended [[The Celestial Stairway]] 
 
 - Appears in [[Helmshold]]
 	- He something and all of the guards mutilate themselves

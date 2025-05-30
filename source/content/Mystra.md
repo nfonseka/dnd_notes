@@ -1,11 +1,14 @@
 ---
 tags:
   - God
+  - Event
 God_of:
   - Arcane Magic
 ---
 
 - One of the Major Goddess of Magic in Feyrune
-![[Session 13#^03aed1]]
 
-![[Mystra's Death]]
+## Death
+- Death of a god? see [[Glaedril's Plant Vision]]
+- Death of a god is not normal but [[Mystra]] has died before
+	- Arcane magic went wonky when Mystra died

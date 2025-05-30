@@ -2,7 +2,7 @@
 tags:
   - Item
 Owner:
-  - "[[Masked Mage]]"
+  - "[[Liliana Silverhand]]"
 ---
 Perfect sphere, Black Crystal. One of [[The Gems]]
 

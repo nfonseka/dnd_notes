@@ -3,7 +3,7 @@ tags:
 ---
 - It is unnaturally quiet
 - The torches are [[Fiend]] magic 
-- [[Cronox]] moves weird and the [[Masked Mage 2]]
+- [[Cronox]] moves weird and the [[Lucille Silverhand]]
 - Natural Degradation, maybe thousands of years old
 - Something is clouding your mind
 - Remi can't remember things in the [[The Forgotten Temple]]
@@ -58,7 +58,7 @@ There is a staircase where the ppl went
 		- 
 
 - Chanting Room
-	- [[Masked Mage 2]] 
+	- [[Lucille Silverhand]] 
 	- [[Cronox]] is chanting that cannot be understood
 	- [[Bloodstone]] in the air and a sphere of blood with 2 tiefling horns
 	- Serpentine beasts on the sides

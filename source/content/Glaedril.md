@@ -4,13 +4,14 @@ tags:
 Parent: "[[Cerunnos]]"
 ---
 
-Fucks Plants
-## Inventory
-- 50 Gold
 
 ## Skills
 - Can meow from asshole
 - Can revive plants?
 	- Has [[Selune]] powers?
 - Every morning my hair grows the white shimmery flowers
-- CHILD OF [[Cerunnos]], has scars of Cerunnos ^0f6e98
+
+## Early Life
+- Was created by [[Cerrunos]] for [[The Wild Hunt|The Hunt]]
+- Failed to kill [[Worm]]
+- Was banished and hunted by [[Cerunnos]]

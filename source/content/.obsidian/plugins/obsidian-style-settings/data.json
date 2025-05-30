@@ -5,5 +5,13 @@
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-header-color-toggle": false,
   "anuppuccin-theme-settings@@h1-size": 3,
-  "anuppuccin-theme-settings@@anp-header-margin-toggle": true
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
+  "anuppuccin-theme-settings@@h3-size": 1.2,
+  "anuppuccin-theme-settings@@h4-size": 1.1,
+  "anuppuccin-theme-settings@@h3-weight": 600,
+  "anuppuccin-theme-settings@@anp-h2-divider": false,
+  "anuppuccin-theme-settings@@h2-line-height": 1,
+  "anuppuccin-theme-settings@@h1-weight": 700,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-divider-color-toggle": false
 }

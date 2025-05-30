@@ -1,6 +1,8 @@
 ---
 allies:
   - "[[Torm]]"
+  - "[[Oghma]]"
+  - "[[Ill Mater]]"
 tags:
   - God
 God_of:

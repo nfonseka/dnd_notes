@@ -16,7 +16,7 @@ Location: "[[Underdark]]"
 		- The snakes are slashing the creatures
 	- 2 legged people with heavy and spiky and unnatural armour
 		- holding a scythe 
-		- The 2 masked figures, [[Masked Mage]], [[Masked Mage 2]]
+		- The 2 masked figures, [[Liliana Silverhand]], [[Lucille Silverhand]]
 			- Floating in their hand is a [[Onyx of Oblivion]] in a perfect sphere
 			- Tendrils of blood running around it
 		- Nods at the first masked mage and a tendril shoots and wraps around your hand

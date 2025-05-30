@@ -14,7 +14,7 @@ In Comes:
 	 - Has a sword and shield
 	 - [[Paladin]]-ish armour
 	 - Looks highly trained
-- [[Masked Mage]]
+- [[Liliana Silverhand]]
 - [[Hooded Guy]]
 
 - Gateway closes behind them
@@ -38,13 +38,13 @@ In Comes:
 - Father might be [[Zorrithar]]??
 
 They take out a [[Crimson Gem]]
-> "He made the stone, he gains my trust" - [[Masked Mage]] in
+> "He made the stone, he gains my trust" - [[Liliana Silverhand]] in
 
 > "Are you sure this is going to work, I don't know if this is worth it. The price to be paid is steep" - [[Bhaal]] in [[Undercommon]]
 
 > "This is his command, we will do as he says" - [[Bhaal]]
 
-[[Masked Mage]] holds out the gem and they like 
+[[Liliana Silverhand]] holds out the gem and they like 
 
 Ball of shadows, [[Bhaal]] gets stabbed and red shit and energy
 
@@ -53,6 +53,5 @@ Ball of shadows, [[Bhaal]] gets stabbed and red shit and energy
 They attack bel
 - The cloak has felt this before
 - (MB VARIS PERCEIVED)
-
 
 
