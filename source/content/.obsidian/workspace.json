@@ -13,158 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Season 2/Session 31.md",
+                "file": "Sword Coast Campaign.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 31"
-            }
-          },
-          {
-            "id": "c0159f5c913ab76d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zyrian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Zyrian"
-            }
-          },
-          {
-            "id": "6932c792e7a84b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Gems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Gems"
-            }
-          },
-          {
-            "id": "0c0a3c842c2e020c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Triton.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Triton"
-            }
-          },
-          {
-            "id": "a692eddbdb1b671d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Gems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "The Gems"
-            }
-          },
-          {
-            "id": "fb4cda7b103f304b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abathor is Jailed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Abathor is Jailed"
-            }
-          },
-          {
-            "id": "15f6aa90a28e866a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Baby Dragon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Baby Dragon"
-            }
-          },
-          {
-            "id": "f22c737c101888f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ill Mater.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ill Mater"
-            }
-          },
-          {
-            "id": "9b16e9a548c04fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tyr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Tyr"
-            }
-          },
-          {
-            "id": "fe7baec4987aa9a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wiki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wiki"
-            }
-          },
-          {
-            "id": "23ebe5ea94fdb6a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Sword Coast Campaign"
             }
           }
         ]
@@ -221,7 +76,7 @@
             }
           },
           {
-            "id": "80663ba75b963acb",
+            "id": "1bc4516a22c51984",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -230,7 +85,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -250,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Season 2/Session 31.md",
+                "file": "Sword Coast Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 31"
+              "title": "Backlinks for Sword Coast Campaign"
             }
           },
           {
@@ -373,6 +229,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Wiki.md",
+    "Sword Coast Campaign.md",
+    "Quests and Questions.md",
     "Yartar.md",
     "Session Notes/Season 2/Session 28.md",
     "Bloodstone.md",
@@ -380,7 +239,6 @@
     "The Prophecies.md",
     "Gara.md",
     "Sapphire of the Sea.md",
-    "Wiki.md",
     "Torm.md",
     "Session Notes/Season 2/Session 31.md",
     "Session Notes/Season 2/Session 30.md",
@@ -397,8 +255,6 @@
     "Ao.md",
     "Oghma.md",
     "Session Notes/Season 2/Session 26.md",
-    "Session Notes/Season 2/Session 25.md",
-    "Lightning Knife.md",
     "assets/sword_coast_map.jpg",
     "assets/sword_coast_map_compressed.jpg"
   ]
