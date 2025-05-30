@@ -48,16 +48,16 @@ The party travels to the underdark where the [[Faerzress]] interferes with their
 	- Sense of Danger, not good quartz sand
 	- Avoid the quartz sand
 	- Remi hears the sound of horrible screaching and screaming from a voice I recognise
-		- Remi blacks out and the voice screams run <- recognised but not [[Rani]] 
+		- Remi blacks out and the voice screams run <- recognised but not [[Ranni]] 
 		- Someone picks Remi up and goes unconscious (like psychically)
 		- The shadows are wrapping around him
 		- Same shadows obscuring visions
-		- Remi is roused awake and for a split second looks like [[Rani]] but younger
+		- Remi is roused awake and for a split second looks like [[Ranni]] but younger
 
 - Ancient Temple
 	- [[Cronox]] with [[Bloodstone]], eyes of the temple light up after 3 beams of green
 	- Stairs appear
-	- [[Triton]] sees his [[Emerald of Eternity]] wielded by [[Figure]]
+	- [[Triton]] sees his [[Emerald of Eternity]] wielded by [[Lucille Silverhand]]
 	- stairwell doors close
 	- Just below the surface of the acid lake is the footpath
 	- Desecrated Ground

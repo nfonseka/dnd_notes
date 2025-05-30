@@ -1,6 +1,6 @@
 ---
 tags:
-  - God
+  - Session
 God_of:
   - Arcane Magic
 ---
@@ -14,7 +14,7 @@ God_of:
 - [[Rosette]] is not fine - saved by a miracle from [[Varis' Robe]] 
 - ==Someone has been trying to kill every assasin in Feyrune==
 - [[Mystra]] has [[Mystra's Death|fallen]]. ^03aed1
-- [[Oghma]], [[Tyr]] and [[Lathendar]]
+- [[Oghma]], [[Tyr]] and [[Lythendar]]
 - [[Tyr]] avatar has been seen in [[Tantrus]]
 - [[Torm]] is also missing
 

@@ -3,7 +3,7 @@ tags:
   - Character
 Race: Dwarf
 ---
-Dwarven Archaeologist that is currently looking for [[Dwarven Excavation]]. Drake went missing for a month from [[Miners Guild]].
+Dwarven Archaeologist that is currently looking for [[Abathor is Jailed]]. Drake went missing for a month from [[Miners Guild]].
 
 ![[Session 12#^e7286c]]
 

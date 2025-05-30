@@ -27,7 +27,7 @@ Brought to the watering hole
 Going to [[Eres Elohai]]
 - Falls into the space with
 - [[M'Vaser Mallardy Duckington]]
-- The [[The Gem]] floats above [[M'Vaser Mallardy Duckington]]
+- The [[Sapphire of the Sea]] floats above [[M'Vaser Mallardy Duckington]]
 - Swallows gem, bones crack and the body disfigures and the islands shatter under the weight of the [[M'Vaser Mallardy Duckington|M'Vaser]]
 - Fucks the [[M'Vaser Mallardy Duckington|M'Vaser]] up
 - [[Dank Duckleberry]] moves gem toward [[Jaun|Jaun]] AND CALLS HIM [[Yasha al-Damim]]

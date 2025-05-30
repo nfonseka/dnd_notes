@@ -1,3 +1,7 @@
+---
+tags:
+  - backend
+---
 
 ## History
 ### Early History
@@ -8,9 +12,14 @@
 - [[Battle between Torm and Bane]]
 - [[Bel's Visions of the Mere of Dead Men]]
 - [[Glaedril#Early Life|Glaedril is banished from The Hunt]] 
+- [[Triton]] gives [[Zyrian]] the [[Sapphire of the Sea]]
+- [[Abathor is Jailed#Abathor is Trapped|Abathor is Jailed]]
 ### Recent History 
-- [[Rhettekest#Death| Rhettekest dies and Zorrithar is jailed]]
-- [[Mystra#Death| Mystra dies]]
+- [[Rhettekest#Death|Rhettekest dies and Zorrithar is jailed]]
+- [[Mystra#Death|Mystra dies]]
+- [[Zyrian#Jailed|Zyrian goes to jail]]
+- Someone (Probably [[Zorrithar]], [[Liliana Silverhand]]and [[Cronox]]) try to free [[Talos]] using the [[Lightning Knife]] and fails
+- All of the Major Deities, including [[Oghma]]  have been cast down by [[Ao]]
 ### During the Campaign 
 - [[Zorrithar]] is released
 - [[Session 12#All Assasins are Killed |All Assasins are Killed]]
@@ -18,8 +27,11 @@
 - [[Zakhara|Zakharan]] gods go missing
 - [[Talos]] is released
 - [[Baby Dragon]] is sent Eastward by [[Zorrithar]]
-- 
+- Corrupted [[Bloodstone]] is made at [[Abathor]]'s Temple
+- [[The Forgotten Temple]] ritual fails
 
+## Prophecies
+- [[Remi's Vision of the Holy War]]
 ## Politics
 - [[Neverwinter-Luskan War]]
 ## Magic
@@ -46,7 +58,7 @@ depth: 1
 - [[Zentaren]]
 ## Gods
 - [[Tyr]]
-- [[Lathendar]]
+- [[Lythendar]]
 - [[Torm]]
 - [[Bane]] 
 - [[Ill Mater]] 

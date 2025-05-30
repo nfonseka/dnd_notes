@@ -8,4 +8,4 @@ tags:
 	- Major Gods
 		- [[Oghma]]
 		- [[Tyr]]
-		- [[Lathendar]]
+		- [[Lythendar]]

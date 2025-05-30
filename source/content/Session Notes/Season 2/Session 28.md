@@ -1,5 +1,6 @@
 ---
 tags:
+  - Session
 ---
 - It is unnaturally quiet
 - The torches are [[Fiend]] magic 
@@ -7,7 +8,7 @@ tags:
 - Natural Degradation, maybe thousands of years old
 - Something is clouding your mind
 - Remi can't remember things in the [[The Forgotten Temple]]
-	- Remi doesn't remember his mother and [[Rani]]'s face 
+	- Remi doesn't remember his mother and [[Ranni]]'s face 
 	- Remi doesn't remember the last time he saw his mother 
 
 - [[Modify Memory]] may have been used

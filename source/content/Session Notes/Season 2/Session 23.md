@@ -2,4 +2,3 @@
 - ![[The Temple#^dd4491]]
 - Religious texts inside
 - [[Khazgrin Hurngruntoss]] does a circle of truth 
-- 

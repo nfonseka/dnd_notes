@@ -1,0 +1,20 @@
+An image of the sun getting eclipsed and the sky turns completely dark
+	- The ground splits open - in the dark
+		- Open grassy field, there is movement and voices behind you. on the outskirts of a city <- [[Yartar]]
+		- Mountains either side of you but on a valley <- [[Desser]]
+	- Sounds of laughter and screams
+		- Demented cackling
+	- Magma flows out of the ground
+	- Moving past you is upright humanoids with a snake tail weaving past you - a few hundred of them. Toward the chasm 
+	- Things crawling out of the chasms
+		- The snakes are slashing the creatures
+	- 2 legged people with heavy and spiky and unnatural armour
+		- holding a scythe 
+		- The 2 masked figures, [[Liliana Silverhand]], [[Lucille Silverhand]]
+			- Floating in their hand is a [[Onyx of Oblivion]] in a perfect sphere
+			- Tendrils of blood running around it
+		- Nods at the first masked mage and a tendril shoots and wraps around your hand
+		- Other people moving towards you toward the chasms,
+		- The party is wrapped in tendrils walking towards the chasm
+			- Jaun then glaedril, martin on left
+			- Bel and Triton on the left

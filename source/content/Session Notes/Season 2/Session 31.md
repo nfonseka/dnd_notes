@@ -40,5 +40,3 @@ Locations:
 	- Goat got an amulet of plane shifting
 
 - Remi finds a magic cards that shows a bard on an adventure that represents remi
-
-- 

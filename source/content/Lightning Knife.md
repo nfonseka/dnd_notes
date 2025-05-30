@@ -5,4 +5,3 @@ Owner:
   - "[[Shaadiry]]"
 ---
 Made by a [[Gods of Feyrune]]
-- 

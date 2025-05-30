@@ -1,6 +1,4 @@
 
-# The Prophecies
-
 In order:
 [[Morathi]]
 1. 7 locks, 7 keys, 7 eyes which do not see, 7 wardens, 7 banished, 7 shackled, chained in cells, 7 prisoners break free, unleashing all of hell

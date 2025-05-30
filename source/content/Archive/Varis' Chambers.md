@@ -9,4 +9,4 @@
 - Crest of Neverwinter
 - Church Library Symbol
 - Symbol of [[Tyr]]
-- Symbol of [[Lathendar]]
+- Symbol of [[Lythendar]]

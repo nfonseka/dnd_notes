@@ -7,7 +7,7 @@ Organisations:
 allies:
   - "[[Oghma]]"
   - "[[Tyr]]"
-  - "[[Lathendar]]"
+  - "[[Lythendar]]"
 ---
 - Grand Oracle of the [[Church of Oghma]] in Neverwinter
 - Exceptionally powerful Divination Wizard and Knowledge Domain Cleric

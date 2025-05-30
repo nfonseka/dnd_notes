@@ -10,5 +10,5 @@ allies: "[[Bhaal]]"
 		- [[Bane]]
 		- [[Bhaal]]
 	- Purple
-		- [[Lathendar]]
+		- [[Lythendar]]
 	- Not a worshipper of a parrot god

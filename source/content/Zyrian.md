@@ -6,6 +6,7 @@ tags:
 - Made the first gem with [[Triton]]
 - Zyrian ascended [[The Celestial Stairway]] 
 
+## Jailed
 - Appears in [[Helmshold]]
 	- He something and all of the guards mutilate themselves
 		 - Stab their ears

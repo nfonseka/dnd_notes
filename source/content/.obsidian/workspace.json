@@ -13,13 +13,88 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Season 2/Session 22.md",
+                "file": "Session Notes/Season 2/Session 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Session 22"
+              "title": "Session 31"
+            }
+          },
+          {
+            "id": "c0159f5c913ab76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zyrian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Zyrian"
+            }
+          },
+          {
+            "id": "6932c792e7a84b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Gems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Gems"
+            }
+          },
+          {
+            "id": "0c0a3c842c2e020c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Triton.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Triton"
+            }
+          },
+          {
+            "id": "a692eddbdb1b671d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Gems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Gems"
+            }
+          },
+          {
+            "id": "fb4cda7b103f304b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abathor is Jailed.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Abathor is Jailed"
             }
           },
           {
@@ -73,21 +148,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Torm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Torm"
-            }
-          },
-          {
-            "id": "23ebe5ea94fdb6a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Wiki.md",
                 "mode": "source",
                 "source": false,
@@ -95,6 +155,16 @@
               },
               "icon": "lucide-file",
               "title": "Wiki"
+            }
+          },
+          {
+            "id": "23ebe5ea94fdb6a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -129,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,13 +230,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6bd86a3a48b28be7",
@@ -182,6 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Season 2/Session 31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Session 31"
             }
           },
           {
@@ -284,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,31 +373,33 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Circle of Thunder.md",
-    "Session Notes/Season 2/Session 22.md",
-    "Session Notes/Season 2/Session 21 - Basketball.md",
-    "Session Notes/Season 2/Session 20.md",
-    "Session Notes/Season 2/Session 19.md",
+    "Yartar.md",
+    "Session Notes/Season 2/Session 28.md",
+    "Bloodstone.md",
+    "Session Notes/Season 2/Session 13.md",
+    "The Prophecies.md",
+    "Gara.md",
+    "Sapphire of the Sea.md",
     "Wiki.md",
-    "Glaedril.md",
-    "Green Mushroom.md",
-    "Anus Dimensions.md",
-    "Session Notes/Season 2/Session 18.md",
-    "Mantichore.md",
-    "Baby Dragon.md",
-    "Tower of Storms.md",
-    "Hooded Guy.md",
-    "Drake Search Party.md",
-    "Session Notes/Season 2/Session 17.md",
-    "Session Notes/Season 2/Session 16.md",
-    "Dimension Door.md",
-    "Ill Mater.md",
-    "Tyr.md",
     "Torm.md",
-    "Ruby of Reflection.md",
-    "Session Notes/Season 2/Session 15.md",
-    "The Triad.md",
-    "Talos.md",
-    "Session Notes/Season 2/Session 14.md"
+    "Session Notes/Season 2/Session 31.md",
+    "Session Notes/Season 2/Session 30.md",
+    "Zyrian.md",
+    "Triton.md",
+    "The Gems.md",
+    "Session Notes/Season 2/Session 29.md",
+    "Remi's Vision of the Holy War.md",
+    "Session Notes/Season 2/Holy War.md",
+    "Ranni.md",
+    "Session Notes/Season 2/Session 27.md",
+    "Liliana Silverhand.md",
+    "Dank Duckleberry.md",
+    "Ao.md",
+    "Oghma.md",
+    "Session Notes/Season 2/Session 26.md",
+    "Session Notes/Season 2/Session 25.md",
+    "Lightning Knife.md",
+    "assets/sword_coast_map.jpg",
+    "assets/sword_coast_map_compressed.jpg"
   ]
 }

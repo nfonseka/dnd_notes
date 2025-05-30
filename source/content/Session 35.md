@@ -24,8 +24,8 @@ tags:
 		- [[Drow]] that leave their society, are known as pariah
 			- Drow are universal
 
-- [[Rani]] beleives that she saw devils in the [[Underdark]], very close to [[Yartar]] 
-	- [[Rani]] was running from someone in the [[Underdark]], she hid and she saw the thing screaming. The pursuers set them on fire. A fire that was similar to the [[Night of the Witchfire]] - Witchfire
+- [[Ranni]] beleives that she saw devils in the [[Underdark]], very close to [[Yartar]] 
+	- [[Ranni]] was running from someone in the [[Underdark]], she hid and she saw the thing screaming. The pursuers set them on fire. A fire that was similar to the [[Night of the Witchfire]] - Witchfire
 	- Rani mentioned burning caustic flesh - potentially using tiefling blood
 - [[Rosette]] is a blood mage
 	- Fuelled by souls of the living

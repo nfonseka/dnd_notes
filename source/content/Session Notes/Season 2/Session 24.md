@@ -3,7 +3,7 @@ tags:
   - Session
 ---
 
-- on the way to [[Dwarven Excavation]]
+- on the way to [[Abathor is Jailed]]
 - [[Khazgrin Grundtusk]] at [[The Temple]]
 - Warped Alter and it is disturbing ^5bdef9
 	- Unsettling
@@ -14,7 +14,7 @@ tags:
 - [[Gara]] says its the works of the [[Yartar]]ans
 	- [[Yartar]] removed a statue of [[Hela Brightaxe]] in [[Phandalin]] 
 
-- ![[Dwarven Excavation]]
+- ![[Abathor is Jailed]]
 - Paper that says greed is good
 
 >[!note] Greed is Good
